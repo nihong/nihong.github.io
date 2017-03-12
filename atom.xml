@@ -22,38 +22,6 @@
     <published>2017-03-12T06:06:35.000Z</published>
     <updated>2017-03-12T11:16:37.000Z</updated>
     
-    <content type="html"><![CDATA[<img src="/2017/03/12/memory-intruduce/memory1.png" alt="存储器分类1" title="存储器分类1">
-<a id="more"></a>
-<img src="/2017/03/12/memory-intruduce/memory2.png" alt="存储器分类2" title="存储器分类2">
-<ol>
-<li><em>内存</em> - 内存(Memory)也被称为内存储器，或者主存，其作用是用于<code>暂时存放</code>CPU中的运算数据，以及与硬盘等外部存储器交换的数据。只要计算机在运行中，CPU就会把需要运算的数据调到内存中进行运算，当运算完成后CPU再将结果传送出来，内存的运行也决定了计算机的稳定运行。</li>
-</ol>
-<blockquote>
-<p>就好比在一个书房里，存放书籍的书架和书柜相当于电脑的外存，而我们工作的办公    桌就是内存。通常我们把要永久保存的、大量的数据存储在外存上，而把一些临时的    或少量的数据和程序放在内存上，当然内存的好坏会直接影响电脑的运行速度。</p>
-</blockquote>
-<ol>
-<li><p><em>RAM</em> - Random-access memory  ，随机存取存储器。</p>
-<blockquote>
-<p>特点：可读可写，断电后数据会消失。”随机访问存储器也被称为易失性（volatile）存储器。为了保证存储的数据不丢失，需要恒定的电流”–《编码》。</p>
-</blockquote>
-</li>
-<li><p><em>ROM</em> - Read-Only Memory ，只读存储器。</p>
-<blockquote>
-<p>特点：只能读，不能像RAM一样可以随时读和写。它只允许在生产出来之后有一次    写的机会，数据一旦写入则不可更改。它另外一个特点是存储器掉电后里面的数据不    丢失，可以存放成百上千年。此类存储器多用来存放固件，比如计算机启动的引导程    序，手机、MP3、MP4、数码相机等一些电子产品的相应的自带程序代码，这种用户    可以通过刷机方式读写ROM。</p>
-</blockquote>
-</li>
-<li><p><em>Cache</em> - 高速缓冲存储器。</p>
-<blockquote>
-<p>Cache也是我们经常遇到的概念，也就是平常看到的一级缓存(L1 Cache）、二级缓存(L2 Cache）、三级缓存(L3 Cache）这些数据，它位于<em>CPU与内存之间</em>，是一个读写速度<em>比内存更快</em>的存储器。当CPU向内存中写入或读出数据时，这个数据也被存储进高速缓冲存储器中。当CPU<em>再次需要</em>这些数据时，CPU就从高速缓冲存储器读取数据，而不是访问较慢的内存，当然，如需要的数据在Cache中没有，CPU会再去读取内存中的数据。</p>
-</blockquote>
-</li>
-</ol>
-<p>##参考文献</p>
-<ol>
-<li><a href="">《百度百科·内存》</a></li>
-</ol>
-]]></content>
-    
     <summary type="html">
     
       &lt;img src=&quot;/2017/03/12/memory-intruduce/memory1.png&quot; alt=&quot;存储器分类1&quot; title=&quot;存储器分类1&quot;&gt;
@@ -77,47 +45,6 @@
     <id>http://nihong.github.io/2016/12/12/Markdown_Hexo_NexT /</id>
     <published>2016-12-12T08:36:55.000Z</published>
     <updated>2017-03-12T11:46:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h1><p> <a href="http://wowubuntu.com/markdown/#list" target="_blank" rel="external">Markdown 语法说明 (简体中文版)</a></p>
-<p> <a href="http://www.jianshu.com/p/1e402922ee32/" target="_blank" rel="external">Markdown——入门指南</a></p>
-<a id="more"></a>
-<h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><p> <a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="external">官方文档</a></p>
-<h1 id="NexT"><a href="#NexT" class="headerlink" title="NexT"></a>NexT</h1><p> [hexo-theme-next的wiki]（<a href="https://github.com/iissnan/hexo-theme-next/wiki）" target="_blank" rel="external">https://github.com/iissnan/hexo-theme-next/wiki）</a></p>
-<p> <a href="http://theme-next.iissnan.com/theme-settings.html" target="_blank" rel="external">官方文档</a></p>
-<ul>
-<li><p>新建文章</p>
-<p>  <code>$ hexo new [layout] &lt;title&gt;</code> </p>
-<p>  eg: <code>hexo new post ABC</code></p>
-<p>  其中：layout分为post、page 和 draft，它们分别对应不同的路径。</p>
-</li>
-<li><p>引入图片</p>
-<p>  *在_config.yml中将相应的属性打开(已经完成)：</p>
-<pre><code>_config.yml 配置文件中设置：
-post_asset _folder: true
-</code></pre><p>  *将图片拖入新建的<code>与md同名</code>，<code>同级别</code>资源文件夹中,然后在md中引用，注    意：<strong>引用方式区别与<code>![](/example.jpg)</code></strong> 这种方式！</p>
-<pre><code>{% asset_img slug [title] %}
-eg: {% asset_img example.jpg This is an example image %}
-</code></pre></li>
-</ul>
-<pre><code>当你打开文章资源文件夹功能后，你把一个 example.jpg 图片放在了你的资源文件夹中，如果通过使用相对路径的常规 markdown 语法 `![](/example.jpg)` ，它将 不会 出现在首页上。（但是它会在文章中按你期待的方式工作）
-</code></pre><ul>
-<li><p>Front-matter 中设置文章的相关属性</p>
-<pre><code>---
-title: Markdown Hexo NexT
-date: 2012-12-12 12:12:12
-updated: 2013-13-13 13:13:13  
-comment: true | false
-tags: 
-- Markdown
-- Hexo
-- NexT
-comment: false
-categories: 
-- 软件
----
-</code></pre></li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -144,36 +71,6 @@ categories:
     <published>2016-07-03T05:05:25.000Z</published>
     <updated>2017-03-12T11:18:09.000Z</updated>
     
-    <content type="html"><![CDATA[<p>晚上睡不着，就打开苹果的Developer网站上，瞅瞅有没有新鲜的东东。看到了这篇swift入门<a href="https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1" target="_blank" rel="external">《 Start Developing iOS Apps (Swift) 》</a>。由于之前项目上一直没有接触到swift，本文就站在一个oc角度上，欣赏一下其简洁便利的又“稀奇古怪”的使用方法：<br>    <a id="more"></a></p>
-<ol>
-<li><p>创建Btn</p>
-<pre><code>let button = UIButton() 
-</code></pre></li>
-<li><p>添加属性 （全是“点”语法呀，感觉一气呵成，着实简洁） </p>
-<pre><code>button.heightAnchor.constraint(equalToConstant: 44.0).isActive = true
-</code></pre></li>
-<li><p>监听Btn 的点击事件（类的名称是RatingControl）</p>
-<pre><code> // Setup the button action
-button.addTarget(self, action: #selector(RatingControl.ratingButtonTapped(button:)), for: .touchUpInside)
-</code></pre></li>
-</ol>
-<ol>
-<li><p>类中对象方法的书写方式</p>
-<pre><code>func doSomething()
-func doSomething(sender: UIButton)
-func doSomething(sender: UIButton, forEvent event: UIEvent)
-</code></pre></li>
-<li><p>for 循环的使用</p>
-<pre><code>for _ in 0..&lt;5 {
-// Create the button
-  let button = UIButton()
-button.backgroundColor = UIColor.red
-   addArrangedSubview(button)
-}
-</code></pre></li>
-</ol>
-]]></content>
-    
     <summary type="html">
     
       &lt;p&gt;晚上睡不着，就打开苹果的Developer网站上，瞅瞅有没有新鲜的东东。看到了这篇swift入门&lt;a href=&quot;https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1&quot;&gt;《 Start Developing iOS Apps (Swift) 》&lt;/a&gt;。由于之前项目上一直没有接触到swift，本文就站在一个oc角度上，欣赏一下其简洁便利的又“稀奇古怪”的使用方法：&lt;br&gt;
@@ -194,17 +91,6 @@ button.backgroundColor = UIColor.red
     <published>2015-08-05T09:16:45.000Z</published>
     <updated>2017-03-12T11:15:55.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="创建个人博客心得"><a href="#创建个人博客心得" class="headerlink" title="创建个人博客心得"></a>创建个人博客心得</h3><ol>
-<li>博客主题框架搭建成功，尽管折腾了一整天，可是成就感满满的！ <a id="more"></a></li>
-<li><p>尽管成功的避开了一些坑，但是由于文章中没有提到的部分细节，还是掉进了坑中，度娘上面竟然没找到一个类型的问题，结果耗时大半天才爬出来。还得🙏StackOverFlow的强大，最终找到了类似的答复<a href="http://stackoverflow.com/questions/20895543/my-new-github-page-isnt-showing-up" target="_blank" rel="external"><strong>My new Github page isn’t showing up</strong></a>!</p>
-<p> <strong>问题描述:</strong> 上传到github上的博客框架不现实！而之前在本地通过访问：<a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a> 是没有问题的！</p>
-<p> <strong>Answer:</strong> github 上登录所用的（username）与新建博客中（（username）.github.io），一定要相同！！否者访问 网址： <a href="http://(username).github.io" target="_blank" rel="external">http://(username).github.io</a> 会显示404的错误！</p>
-</li>
-</ol>
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<p><script type="text/javascript"><br>var duoshuoQuery = {short_name:”nihong”};<br>(function() {<br>var ds = document.createElement(‘script’);<br>ds.type = ‘text/javascript’;ds.async = true;<br>ds.src = (document.location.protocol == ‘https:’ ? ‘https:’ : ‘http:’) + ‘//static.duoshuo.com/embed.js’;<br>ds.charset = ‘UTF-8’;<br>(document.getElementsByTagName(‘head’)[0]<br>|| document.getElementsByTagName(‘body’)[0]).appendChild(ds);<br>})();<br></script><br><!-- 多说公共JS代码 end --></p>
-]]></content>
-    
     <summary type="html">
     
       &lt;h3 id=&quot;创建个人博客心得&quot;&gt;&lt;a href=&quot;#创建个人博客心得&quot; class=&quot;headerlink&quot; title=&quot;创建个人博客心得&quot;&gt;&lt;/a&gt;创建个人博客心得&lt;/h3&gt;&lt;ol&gt;
@@ -224,22 +110,11 @@ button.backgroundColor = UIColor.red
     <link href="http://nihong.github.io/2015/08/05/hello-world/"/>
     <id>http://nihong.github.io/2015/08/05/hello-world/</id>
     <published>2015-08-05T08:06:35.000Z</published>
-    <updated>2017-03-12T11:18:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br>   <a id="more"></a></p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
+    <updated>2017-03-12T14:57:51.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+      In the front-matter of your post, you can optionally add a description...
     
     </summary>
     
