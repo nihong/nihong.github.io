@@ -262,6 +262,228 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://nihong.github.io/2017/03/13/apache和PHP/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="NiHong">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/nihong.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="NiHong的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/03/13/apache和PHP/" itemprop="url">
+                  apache和PHP
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-03-13T22:43:33+08:00">
+                2017-03-13
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/软件/" itemprop="url" rel="index">
+                    <span itemprop="name">软件</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2017/03/13/apache和PHP/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2017/03/13/apache和PHP/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h1 id="apache"><a href="#apache" class="headerlink" title="apache"></a>apache</h1><p><strong>apache基本命令：</strong></p>
+<ul>
+<li><p>查看apache版本：httpd -v</p>
+</li>
+<li><p>启动：sudo apachectl start</p>
+</li>
+<li><p>停止：sudo apachectl stop</p>
+</li>
+<li><p>重启：sudo apachectl restart</p>
+</li>
+</ul>
+<p><code>（apache启动成功后，浏览器打开http://127.0.0.1，可以看到It works!的页面）</code></p>
+<p><strong>apache文件根目录</strong></p>
+<ul>
+<li><p>系统级的根目录：<a href="http://localhost" target="_blank" rel="external">http://localhost</a></p>
+</li>
+<li><p>对应的文件目录是：/Library/WebServer/Documents</p>
+</li>
+</ul>
+<pre><code>系统级根目录默认没有开启目录列表，__开启__方法：
+</code></pre><ol>
+<li><p>编辑 /etc/apache2/httpd.conf 文件</p>
+</li>
+<li><p>搜索找到 \&lt;Directory “/Library/WebServer/Documents”&gt;</p>
+</li>
+<li><p>将 Options FollowSymLinks Multiviews 修改为 Options Indexes FollowSymLinks Multiviews</p>
+<pre><code>修改时，需要注意文件权限的调整，账号默认应该是只读的。
+</code></pre></li>
+</ol>
+<ol>
+<li><p>修改后，在 /Library/WebServer/Documents 目录下心间php目录，</p>
+</li>
+<li><p>即可访问 <a href="http://localhost/php/" target="_blank" rel="external">http://localhost/php/</a> </p>
+</li>
+<li><p>调整后需要重启apache</p>
+</li>
+</ol>
+<hr>
+<p>#开启php</p>
+<p><strong>开启方法：</strong></p>
+<ul>
+<li>编辑 /etc/apache2/httpd.conf 文件</li>
+</ul>
+<ul>
+<li><p>取消libphp5.so 这个命令行前的注释符号#</p>
+<pre><code>LoadModule php5_module libexec/apache2/libphp5.so
+</code></pre></li>
+</ul>
+<ul>
+<li>重启apache （sudo apachectl restart）</li>
+</ul>
+<ul>
+<li>然后在上面建立的php目录下，建立一个php文件。</li>
+</ul>
+<pre><code>内容如下：
+
+
+    zhuruhongdeMacBook-Pro:php zhuruhong$ pwd
+
+    /Library/WebServer/Documents/php
+
+    zhuruhongdeMacBook-Pro:php zhuruhong$ cat show_php_info.php 
+
+    &lt;?php phpinfo(); ?&gt;
+</code></pre><ul>
+<li><p>保存文件后，在浏览器打开查看是否成功：</p>
+<pre><code>http://127.0.0.1/php/show_php_info.php
+
+看到php version的相关信息就成功了。
+</code></pre></li>
+</ul>
+<hr>
+<p><strong>摘自</strong>– <a href="http://blog.csdn.net/zhu410289616/article/details/46508003" target="_blank" rel="external">《apache和PHP的简要记录》</a></p>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
     <link itemprop="mainEntityOfPage" href="http://nihong.github.io/2017/03/12/memory-intruduce/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1048,7 +1270,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">5</span>
+                <span class="site-state-item-count">6</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -1070,7 +1292,7 @@
             
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
-                <span class="site-state-item-count">8</span>
+                <span class="site-state-item-count">10</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>

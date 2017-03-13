@@ -3,6 +3,28 @@
 
 
     
+  <url>
+    <loc>http://nihong.github.io/2017/03/13/apache%E5%92%8CPHP/</loc>
+    <lastmod>2017-03-13T14:56:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>apache和PHP</title>
+        <pubTime>2017-03-13T14:43:33.000Z</pubTime>
+        
+        <tag>apache</tag>
+         
+        <tag>PHP</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件" url="http://nihong.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://nihong.github.io/2015/08/05/hello-world/</loc>
