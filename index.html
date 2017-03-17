@@ -522,8 +522,7 @@
 
       
         
-          
-            <h1 id="apache"><a href="#apache" class="headerlink" title="apache"></a>apache</h1><p><strong>apache基本命令：</strong></p>
+          <h1 id="apache"><a href="#apache" class="headerlink" title="apache"></a>apache</h1><p><strong>apache基本命令：</strong></p>
 <ul>
 <li><p>查看apache版本：httpd -v</p>
 </li>
@@ -532,71 +531,13 @@
 <li><p>停止：sudo apachectl stop</p>
 </li>
 <li><p>重启：sudo apachectl restart</p>
-</li>
-</ul>
-<p><code>（apache启动成功后，浏览器打开http://127.0.0.1，可以看到It works!的页面）</code></p>
-<p><strong>apache文件根目录</strong></p>
-<ul>
-<li><p>系统级的根目录：<a href="http://localhost" target="_blank" rel="external">http://localhost</a></p>
-</li>
-<li><p>对应的文件目录是：/Library/WebServer/Documents</p>
-</li>
-</ul>
-<pre><code>系统级根目录默认没有开启目录列表，__开启__方法：
-</code></pre><ol>
-<li><p>编辑 /etc/apache2/httpd.conf 文件</p>
-</li>
-<li><p>搜索找到 \&lt;Directory “/Library/WebServer/Documents”&gt;</p>
-</li>
-<li><p>将 Options FollowSymLinks Multiviews 修改为 Options Indexes FollowSymLinks Multiviews</p>
-<pre><code>修改时，需要注意文件权限的调整，账号默认应该是只读的。
-</code></pre></li>
-</ol>
-<ol>
-<li><p>修改后，在 /Library/WebServer/Documents 目录下心间php目录，</p>
-</li>
-<li><p>即可访问 <a href="http://localhost/php/" target="_blank" rel="external">http://localhost/php/</a> </p>
-</li>
-<li><p>调整后需要重启apache</p>
-</li>
-</ol>
-<hr>
-<h1 id="开启php"><a href="#开启php" class="headerlink" title="开启php"></a>开启php</h1><p><strong>开启方法：</strong></p>
-<ul>
-<li>编辑 /etc/apache2/httpd.conf 文件</li>
-</ul>
-<ul>
-<li><p>取消libphp5.so 这个命令行前的注释符号#</p>
-<pre><code>LoadModule php5_module libexec/apache2/libphp5.so
-</code></pre></li>
-</ul>
-<ul>
-<li>重启apache （sudo apachectl restart）</li>
-</ul>
-<ul>
-<li>然后在上面建立的php目录下，建立一个php文件。</li>
-</ul>
-<pre><code>内容如下：
-
-
-    zhuruhongdeMacBook-Pro:php zhuruhong$ pwd
-
-    /Library/WebServer/Documents/php
-
-    zhuruhongdeMacBook-Pro:php zhuruhong$ cat show_php_info.php 
-
-    &lt;?php phpinfo(); ?&gt;
-</code></pre><ul>
-<li><p>保存文件后，在浏览器打开查看是否成功：</p>
-<pre><code>http://127.0.0.1/php/show_php_info.php
-
-看到php version的相关信息就成功了。
-</code></pre></li>
-</ul>
-<hr>
-<p><strong>摘自</strong>– <a href="http://blog.csdn.net/zhu410289616/article/details/46508003" target="_blank" rel="external">《apache和PHP的简要记录》</a></p>
-
-          
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/03/13/apache和PHP/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
