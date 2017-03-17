@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2017/03/17/Command-Line/</loc>
+    <lastmod>2017-03-17T13:40:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Command_Line</title>
+        <pubTime>2017-03-17T13:31:20.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>终端</tag>
+         
+         
+           
+             
+              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2017/03/13/apache%E5%92%8CPHP/</loc>
     <lastmod>2017-03-13T14:58:28.000Z</lastmod>
     <data>
