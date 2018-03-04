@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-04T14:39:01.181Z</updated>
+  <updated>2018-03-04T14:46:57.435Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -16,21 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>“个人简历”</title>
+    <title>个人简历</title>
     <link href="http://nihong.github.io/2018/03/01/%E2%80%9C%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%E2%80%9D/"/>
     <id>http://nihong.github.io/2018/03/01/“个人简历”/</id>
     <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2018-03-04T14:39:01.181Z</updated>
+    <updated>2018-03-04T14:46:57.435Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;###&lt;center&gt;个 人 简 历&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;##&lt;font color=&quot;#66b8f0&quot; size=&quot;4&quot;&gt;个人资料&lt;/font&gt;&lt;br&gt;| 姓名  | 性别   |   年龄 | 经验 |英语水平 | 毕业院校 | 学历 |现居地 | 电话 |
+      &lt;h2 id=&quot;个人资料&quot;&gt;&lt;a href=&quot;#个人资料&quot; class=&quot;headerlink&quot; title=&quot;个人资料&quot;&gt;&lt;/a&gt;&lt;font color=&quot;#66b8f0&quot; size=&quot;4&quot;&gt;个人资料&lt;/font&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th st
     
     </summary>
     
     
-      <category term="“个人”" scheme="http://nihong.github.io/tags/%E2%80%9C%E4%B8%AA%E4%BA%BA%E2%80%9D/"/>
+      <category term="个人" scheme="http://nihong.github.io/tags/%E4%B8%AA%E4%BA%BA/"/>
     
   </entry>
   

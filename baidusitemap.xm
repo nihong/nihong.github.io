@@ -5,13 +5,13 @@
     
   <url>
     <loc>http://nihong.github.io/2018/03/01/%E2%80%9C%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%E2%80%9D/</loc>
-    <lastmod>2018-03-04T14:39:01.181Z</lastmod>
+    <lastmod>2018-03-04T14:46:57.435Z</lastmod>
     <data>
         <display>
-        <title>“个人简历”</title>
+        <title>个人简历</title>
         <pubTime>2018-03-01T14:34:24.000Z</pubTime>
         
-        <tag>“个人”</tag>
+        <tag>个人</tag>
          
          
            
