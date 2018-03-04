@@ -4,23 +4,6 @@
 
     
   <url>
-    <loc>http://nihong.github.io/2018/03/01/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</loc>
-    <lastmod>2018-03-04T14:58:16.673Z</lastmod>
-    <data>
-        <display>
-        <title>个人简历</title>
-        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
-        
-        <tag>个人</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://nihong.github.io/2017/04/24/SDWebImage%E6%BA%90%E7%A0%81%E7%90%86%E8%A7%A3/</loc>
     <lastmod>2017-04-24T14:42:06.000Z</lastmod>
     <data>
