@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
-    <lastmod>2018-03-04T15:59:31.116Z</lastmod>
+    <lastmod>2018-03-04T16:11:05.909Z</lastmod>
     <data>
         <display>
         <title>个人简历</title>
@@ -15,6 +15,33 @@
          
          
            
+             
+              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://nihong.github.io/2017/03/12/memory-intruduce/</loc>
+    <lastmod>2018-03-04T16:09:25.194Z</lastmod>
+    <data>
+        <display>
+        <title>存储器的简单介绍</title>
+        <pubTime>2017-03-12T06:06:35.000Z</pubTime>
+        
+        <tag>硬件</tag>
+         
+        <tag>内存</tag>
+         
+        <tag>缓存</tag>
+         
+         
+           
+             
+              <breadCrumb title="硬件" url="http://nihong.github.io/categories/%E7%A1%AC%E4%BB%B6/"/>
+          
         </display>
     </data>
     </url>
@@ -136,30 +163,6 @@
            
              
               <breadCrumb title="swift" url="http://nihong.github.io/categories/swift/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2017/03/12/memory-intruduce/</loc>
-    <lastmod>2017-03-12T11:16:37.000Z</lastmod>
-    <data>
-        <display>
-        <title>存储器的简单介绍</title>
-        <pubTime>2017-03-12T06:06:35.000Z</pubTime>
-        
-        <tag>硬件</tag>
-         
-        <tag>内存</tag>
-         
-        <tag>缓存</tag>
-         
-         
-           
-             
-              <breadCrumb title="硬件" url="http://nihong.github.io/categories/%E7%A1%AC%E4%BB%B6/"/>
           
         </display>
     </data>
