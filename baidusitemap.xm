@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
+    <lastmod>2018-03-04T15:07:02.373Z</lastmod>
+    <data>
+        <display>
+        <title>个人简历</title>
+        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
+        
+        <tag>简历</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2017/04/24/SDWebImage%E6%BA%90%E7%A0%81%E7%90%86%E8%A7%A3/</loc>
     <lastmod>2017-04-24T14:42:06.000Z</lastmod>
     <data>
