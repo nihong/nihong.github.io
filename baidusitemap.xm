@@ -4,6 +4,38 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2018/03/01/%E2%80%9C%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%E2%80%9D/</loc>
+    <lastmod>2018-03-04T14:39:01.181Z</lastmod>
+    <data>
+        <display>
+        <title>“个人简历”</title>
+        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
+        
+        <tag>“个人”</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://nihong.github.io/2017/04/24/SDWebImage%E6%BA%90%E7%A0%81%E7%90%86%E8%A7%A3/</loc>
+    <lastmod>2017-04-24T14:42:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>SDWebImage源码理解</title>
+        <pubTime>2017-04-24T14:35:27.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2016/03/17/Command-Line/</loc>
     <lastmod>2017-03-21T06:59:04.000Z</lastmod>
     <data>

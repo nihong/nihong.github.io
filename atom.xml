@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2017-03-17T13:46:40.000Z</updated>
+  <updated>2018-03-04T14:39:01.181Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“个人简历”</title>
+    <link href="http://nihong.github.io/2018/03/01/%E2%80%9C%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%E2%80%9D/"/>
+    <id>http://nihong.github.io/2018/03/01/“个人简历”/</id>
+    <published>2018-03-01T14:34:24.000Z</published>
+    <updated>2018-03-04T14:39:01.181Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;###&lt;center&gt;个 人 简 历&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;##&lt;font color=&quot;#66b8f0&quot; size=&quot;4&quot;&gt;个人资料&lt;/font&gt;&lt;br&gt;| 姓名  | 性别   |   年龄 | 经验 |英语水平 | 毕业院校 | 学历 |现居地 | 电话 |
+    
+    </summary>
+    
+    
+      <category term="“个人”" scheme="http://nihong.github.io/tags/%E2%80%9C%E4%B8%AA%E4%BA%BA%E2%80%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SDWebImage源码理解</title>
+    <link href="http://nihong.github.io/2017/04/24/SDWebImage%E6%BA%90%E7%A0%81%E7%90%86%E8%A7%A3/"/>
+    <id>http://nihong.github.io/2017/04/24/SDWebImage源码理解/</id>
+    <published>2017-04-24T14:35:27.000Z</published>
+    <updated>2017-04-24T14:42:06.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;好久没有写博客了；今日过来一更。&lt;/p&gt;
+&lt;p&gt;*1  先从SDWebImageManager 说起：&lt;br&gt;只对外暴露可读接口，但是有要修改该接口的方法：&lt;/p&gt;
+&lt;p&gt;.h文件中&lt;br&gt;    @property (strong, nonatomic, readonly
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>apache和PHP</title>
