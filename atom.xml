@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-05T01:43:53.063Z</updated>
+  <updated>2018-03-05T01:48:56.587Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://nihong.github.io/2018/03/01/MyResume/"/>
     <id>http://nihong.github.io/2018/03/01/MyResume/</id>
     <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2018-03-05T01:43:53.063Z</updated>
+    <updated>2018-03-05T01:48:56.587Z</updated>
     
     <summary type="html">
     
@@ -82,7 +82,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;互联网/电子商务&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;前期参与新项目需求的讨论、编写需求文档、接口文档。根据项目需求实现新的功能。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;项目经验&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;a href=&quot;#一：项目名称：唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;/a&gt;一：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;唯美美妆&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
+&lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;项目经验&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;唯美美妆&quot;&gt;&lt;a href=&quot;#唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;唯美美妆&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;唯美美妆&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2017/3-至今&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;唯美美妆，成立于2013年，是一家以香港为基地为国内用户提控折扣护肤品，香水及化妆品的专业女性美妆app。同类竞争对手例如小红书，美图美妆等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;            &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；通过第三方分析人脸熟悉（年龄，青春痘，色斑，颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品。        &lt;/li&gt;
@@ -91,14 +91,14 @@
 &lt;li&gt;商品详情页面：埋点统计多种点击事件，支持运营决策；对该页面中的列表进行“模块化”处理，减少了需求变更时对其他模块的影响；对本页面进行预加载，动画展示已有内容，减少用户等待时间。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
-&lt;h4 id=&quot;二：项目名称：美吧助手-—-不需上线&quot;&gt;&lt;a href=&quot;#二：项目名称：美吧助手-—-不需上线&quot; class=&quot;headerlink&quot; title=&quot;二：项目名称：美吧助手 — 不需上线&quot;&gt;&lt;/a&gt;二：项目名称：美吧助手 — 不需上线&lt;/h4&gt;&lt;blockquote&gt;
+&lt;h4 id=&quot;美吧助手-—-不需上线&quot;&gt;&lt;a href=&quot;#美吧助手-—-不需上线&quot; class=&quot;headerlink&quot; title=&quot;美吧助手 — 不需上线&quot;&gt;&lt;/a&gt;美吧助手 — 不需上线&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;时    间&lt;/strong&gt;：2017/11/5-2017/11/28&lt;br&gt;&lt;strong&gt;项目描述&lt;/strong&gt;：美吧助手作为一款于公司线下实体店中使用的，运行于iPad上的管理工具，具有统计员工考勤、员工日常排班，搜索员工预约的客户，以及添加职员等常用功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                    &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;与店长、项目经理、后台人员共同开会讨论项目需求，制定开发文档，绘制大概流程图。        &lt;/li&gt;
 &lt;li&gt;独自搭建项目框架，GitFlow版本控制系统，引入CocoaPod管理第三方库等，开发完成1.0版本；同时引入友盟统计点击时间，以及用户登录时长；配置Bugly搜集崩溃日志…        &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
-&lt;h4 id=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;a href=&quot;#三：项目名称：helmsman（舵手）&quot; class=&quot;headerlink&quot; title=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;/a&gt;三：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/id939511674?mt=8&amp;amp;l=cn&quot;&gt;&lt;font color= #0000ff&gt;helmsman（舵手）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
+&lt;h4 id=&quot;helmsman（舵手）&quot;&gt;&lt;a href=&quot;#helmsman（舵手）&quot; class=&quot;headerlink&quot; title=&quot;helmsman（舵手）&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/id939511674?mt=8&amp;amp;l=cn&quot;&gt;&lt;font color= #0000ff&gt;helmsman（舵手）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2015/10-2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。。。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;对项目中的蓝牙、Wi-Fi接收与发送指令功能进行抽离、解耦，整合为通讯模块，降低了APP与与硬件交互指令的复杂度；        &lt;/li&gt;
@@ -108,7 +108,7 @@
 &lt;li&gt;绘制实现个人用户中心，朋友圈，设置等其他功能页面。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
-&lt;h4 id=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;a href=&quot;#四：项目名称：优惠点（YoPoint）&quot; class=&quot;headerlink&quot; title=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;/a&gt;四：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/yopoint/id545628825?mt=8&quot;&gt;&lt;font color= #0000ff&gt;优惠点（YoPoint）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
+&lt;h4 id=&quot;优惠点（YoPoint）&quot;&gt;&lt;a href=&quot;#优惠点（YoPoint）&quot; class=&quot;headerlink&quot; title=&quot;优惠点（YoPoint）&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/yopoint/id545628825?mt=8&quot;&gt;&lt;font color= #0000ff&gt;优惠点（YoPoint）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2014/12-2015/10&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;“优惠点”类似大众点评，主要针对澳门市场，为用户展现附近商家的优惠活动。主要涵盖饮食、服装、酒店、交通、美容、家电、娱乐休闲等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;负责应用中部分页面的绘制，负责对数据的请求与解析，国际化处理等；&lt;/li&gt;
