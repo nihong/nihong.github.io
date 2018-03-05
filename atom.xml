@@ -131,24 +131,6 @@
   </entry>
   
   <entry>
-    <title>SDWebImage源码理解</title>
-    <link href="http://nihong.github.io/2017/04/24/Reread_SDWebImage/"/>
-    <id>http://nihong.github.io/2017/04/24/Reread_SDWebImage/</id>
-    <published>2017-04-24T14:35:27.000Z</published>
-    <updated>2017-04-24T14:42:06.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;好久没有写博客了；今日过来一更。&lt;/p&gt;
-&lt;p&gt;*1  先从SDWebImageManager 说起：&lt;br&gt;只对外暴露可读接口，但是有要修改该接口的方法：&lt;/p&gt;
-&lt;p&gt;.h文件中&lt;br&gt;    @property (strong, nonatomic, readonly
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>apache和PHP</title>
     <link href="http://nihong.github.io/2017/03/13/apacheAndPHP/"/>
     <id>http://nihong.github.io/2017/03/13/apacheAndPHP/</id>

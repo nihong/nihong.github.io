@@ -48,21 +48,6 @@
 
     
   <url>
-    <loc>http://nihong.github.io/2017/04/24/Reread_SDWebImage/</loc>
-    <lastmod>2017-04-24T14:42:06.000Z</lastmod>
-    <data>
-        <display>
-        <title>SDWebImage源码理解</title>
-        <pubTime>2017-04-24T14:35:27.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://nihong.github.io/2016/03/17/Command-Line/</loc>
     <lastmod>2017-03-21T06:59:04.000Z</lastmod>
     <data>
