@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-05T10:48:48.767Z</updated>
+  <updated>2018-03-05T13:25:40.836Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://nihong.github.io/2018/03/01/MyResume/"/>
     <id>http://nihong.github.io/2018/03/01/MyResume/</id>
     <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2018-03-05T10:48:48.767Z</updated>
+    <updated>2018-03-05T13:25:40.836Z</updated>
     
     <summary type="html">
     
@@ -34,8 +34,8 @@
 &lt;th style=&quot;text-align:center&quot;&gt;英语水平&lt;/th&gt;
 &lt;th style=&quot;text-align:center&quot;&gt;毕业院校&lt;/th&gt;
 &lt;th style=&quot;text-align:center&quot;&gt;学历&lt;/th&gt;
-&lt;th&gt;现居地&lt;/th&gt;
-&lt;th&gt;邮箱&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;现居地&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;邮箱&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -47,8 +47,8 @@
 &lt;td style=&quot;text-align:center&quot;&gt;CET-4&lt;/td&gt;
 &lt;td style=&quot;text-align:center&quot;&gt;海南大学（211）&lt;/td&gt;
 &lt;td style=&quot;text-align:center&quot;&gt;本科&lt;/td&gt;
-&lt;td&gt;珠海&lt;/td&gt;
-&lt;td&gt;roygao666@163.com&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;珠海&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;roygao666@163.com&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -70,20 +70,20 @@
 &lt;li&gt;熟悉友盟分享、友盟统计，Bugly崩溃日志收集，Zendesk 客服系统等SDK的使用；&lt;/li&gt;
 &lt;li&gt;具有良好的英文阅读能力，能快速掌握新技能；Macdown，Xmind，Sketch等常用辅助工具平时也有使用。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;工作经历&quot;&gt;&lt;a href=&quot;#工作经历&quot; class=&quot;headerlink&quot; title=&quot;工作经历&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;工作经历&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2017/3- 至今 ： 珠海唯美网络科技有限公司（50-100人，B轮融资，清华科技园）&lt;/strong&gt;    &lt;/p&gt;
+&lt;h2 id=&quot;工作经历&quot;&gt;&lt;a href=&quot;#工作经历&quot; class=&quot;headerlink&quot; title=&quot;工作经历&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;工作经历&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2017/3 ~ 至今 ： 珠海唯美网络科技有限公司（50-100人，B轮融资，清华科技园）&lt;/strong&gt;    &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;电子商务（美妆品方面）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;    参与项目需求分析、产品设计和接口的编写；负责iOS客户端APP的开发。        &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2015/10- 2017/3 ： 珠海无境科技有限公司（50人以下，创业型公司，横琴澳门青年创业谷）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2015/10 ~ 2017/3 ： 珠海无境科技有限公司（50人以下，创业型公司，横琴澳门青年创业谷）&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;智能硬件 -无人船（类似大疆无人机，主要做无线操控这一块）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;根据项目需求实现新的功能，对项目进行迭代开发。手机软件开发技术评估、框架搭建及可行性分析。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2014/10- 2015/10 ： 力达计算机信息技术有限公司（50-100人，外资［非欧美］，泉福大厦）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2014/10 ~ 2015/10 ： 力达计算机信息技术有限公司（50-100人，外资［非欧美］，泉福大厦）&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;互联网/电子商务&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;前期参与新项目需求的讨论、编写需求文档、接口文档。根据项目需求实现新的功能。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;项目经验&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;a href=&quot;#一：项目名称：唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;/a&gt;一：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;唯美美妆&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2017/3-至今&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;唯美美妆，成立于2013年，是一家以香港为基地为国内用户提控折扣护肤品，香水及化妆品的专业女性美妆app。同类竞争对手例如小红书，美图美妆等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;            &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2017/3 ~ 至今&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;唯美美妆，成立于2013年，是一家以香港为基地为国内用户提控折扣护肤品，香水及化妆品的专业女性美妆app。同类竞争对手例如小红书，美图美妆等。&lt;br&gt;&lt;strong&gt;工作成果:&lt;/strong&gt;            &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；通过第三方分析人脸熟悉（年龄，青春痘，色斑，颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品；        &lt;/li&gt;
 &lt;li&gt;首页瀑布流：追踪记录用户浏览的板块、商品、浏览时长、以及用户标签，结合应用中统计到的热门内容，为用户动态推荐浏览内容；并根据用户行为习惯，定期调整用户标签；        &lt;/li&gt;
@@ -92,14 +92,14 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;二：项目名称：美吧助手-—-不需上线&quot;&gt;&lt;a href=&quot;#二：项目名称：美吧助手-—-不需上线&quot; class=&quot;headerlink&quot; title=&quot;二：项目名称：美吧助手 — 不需上线&quot;&gt;&lt;/a&gt;二：项目名称：美吧助手 — 不需上线&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间&lt;/strong&gt;：2017/11/5-2017/11/28&lt;br&gt;&lt;strong&gt;项目描述&lt;/strong&gt;：美吧助手作为一款于公司线下实体店中使用的，运行于iPad上的管理工具，具有统计员工考勤、员工日常排班，搜索员工预约的客户，以及添加职员等常用功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2017/11/5 ~ 2017/11/28&lt;br&gt;&lt;strong&gt;项目描述&lt;/strong&gt;：美吧助手作为一款于公司线下实体店中使用的，运行于iPad上的管理工具，具有统计员工考勤、员工日常排班，搜索员工预约的客户，以及添加职员等常用功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                    &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;与店长、项目经理、后台人员共同开会讨论项目需求，制定开发文档，绘制大概流程图。        &lt;/li&gt;
 &lt;li&gt;独自搭建项目框架，GitFlow版本控制系统，引入CocoaPod管理第三方库等，开发完成1.0版本；同时引入友盟统计点击时间，以及用户登录时长；配置Bugly搜集崩溃日志等。    &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;a href=&quot;#三：项目名称：helmsman（舵手）&quot; class=&quot;headerlink&quot; title=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;/a&gt;三：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/id939511674?mt=8&amp;amp;l=cn&quot;&gt;&lt;font color= #0000ff&gt;helmsman（舵手）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2015/10-2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2015/10 ～ 2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt; Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;对项目中的蓝牙、Wi-Fi接收与发送指令功能进行抽离、解耦，整合为通讯模块，降低了APP与与硬件交互指令的复杂度；        &lt;/li&gt;
 &lt;li&gt;参照大疆的SDK，整理、制定公司智能船控的SDK的接口（航速、航向、偏移、抛锚、上传坐标等指令），并抽离相应功能；        &lt;/li&gt;
@@ -109,7 +109,7 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;a href=&quot;#四：项目名称：优惠点（YoPoint）&quot; class=&quot;headerlink&quot; title=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;/a&gt;四：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/yopoint/id545628825?mt=8&quot;&gt;&lt;font color= #0000ff&gt;优惠点（YoPoint）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2014/12-2015/10&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;“优惠点”类似大众点评，主要针对澳门市场，为用户展现附近商家的优惠活动。主要涵盖饮食、服装、酒店、交通、美容、家电、娱乐休闲等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2014/12 ～ 2015/10&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;“优惠点”类似大众点评，主要针对澳门市场，为用户展现附近商家的优惠活动。主要涵盖饮食、服装、酒店、交通、美容、家电、娱乐休闲等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;负责应用中部分页面的绘制，负责对数据的请求与解析，国际化处理等；&lt;/li&gt;
 &lt;/ol&gt;
