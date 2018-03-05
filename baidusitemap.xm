@@ -48,7 +48,7 @@
 
     
   <url>
-    <loc>http://nihong.github.io/2017/04/24/SDWebImage%E6%BA%90%E7%A0%81%E7%90%86%E8%A7%A3/</loc>
+    <loc>http://nihong.github.io/2017/04/24/Reread_SDWebImage/</loc>
     <lastmod>2017-04-24T14:42:06.000Z</lastmod>
     <data>
         <display>
