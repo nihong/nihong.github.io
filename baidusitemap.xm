@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
-    <lastmod>2018-03-05T02:56:08.880Z</lastmod>
+    <lastmod>2018-03-05T09:45:33.173Z</lastmod>
     <data>
         <display>
         <title>个人简历</title>
@@ -85,7 +85,7 @@
 
     
   <url>
-    <loc>http://nihong.github.io/2017/03/13/apache%E5%92%8CPHP/</loc>
+    <loc>http://nihong.github.io/2017/03/13/apacheAndPHP/</loc>
     <lastmod>2017-03-17T13:46:40.000Z</lastmod>
     <data>
         <display>

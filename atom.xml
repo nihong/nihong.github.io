@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-05T02:56:08.880Z</updated>
+  <updated>2018-03-05T09:45:33.173Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://nihong.github.io/2018/03/01/MyResume/"/>
     <id>http://nihong.github.io/2018/03/01/MyResume/</id>
     <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2018-03-05T02:56:08.880Z</updated>
+    <updated>2018-03-05T09:45:33.173Z</updated>
     
     <summary type="html">
     
@@ -85,9 +85,9 @@
 &lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;项目经验&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;a href=&quot;#一：项目名称：唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;/a&gt;一：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;唯美美妆&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2017/3-至今&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;唯美美妆，成立于2013年，是一家以香港为基地为国内用户提控折扣护肤品，香水及化妆品的专业女性美妆app。同类竞争对手例如小红书，美图美妆等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;            &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；通过第三方分析人脸熟悉（年龄，青春痘，色斑，颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品。        &lt;/li&gt;
+&lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；通过第三方分析人脸熟悉（年龄，青春痘，色斑，颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品；        &lt;/li&gt;
 &lt;li&gt;首页瀑布流：追踪记录用户浏览的板块、商品、浏览时长、以及用户标签，结合应用中统计到的热门内容，为用户动态推荐浏览内容；并根据用户行为习惯，定期调整用户标签；        &lt;/li&gt;
-&lt;li&gt;活动页面：根据后台返回的数据，动态计算行高，自动适配页面中的图片、描述文本、水平滑动标题、纵向滑动列表、背景图等，能够满足营运人员对多种活动不同规格的排版需求，完美实现了数据驱动。        &lt;/li&gt;
+&lt;li&gt;活动页面：根据后台返回的数据，动态计算行高，自动适配页面中的图片、描述文本、水平滑动标题、纵向滑动列表、背景图等，能够满足营运人员对多种活动不同规格的排版需求，完美实现了数据驱动；                &lt;/li&gt;
 &lt;li&gt;商品详情页面：埋点统计多种点击事件，支持运营决策；对该页面中的列表进行“模块化”处理，减少了需求变更时对其他模块的影响；对本页面进行预加载，动画展示已有内容，减少用户等待时间。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
@@ -95,11 +95,11 @@
 &lt;p&gt;&lt;strong&gt;时    间&lt;/strong&gt;：2017/11/5-2017/11/28&lt;br&gt;&lt;strong&gt;项目描述&lt;/strong&gt;：美吧助手作为一款于公司线下实体店中使用的，运行于iPad上的管理工具，具有统计员工考勤、员工日常排班，搜索员工预约的客户，以及添加职员等常用功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                    &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;与店长、项目经理、后台人员共同开会讨论项目需求，制定开发文档，绘制大概流程图。        &lt;/li&gt;
-&lt;li&gt;独自搭建项目框架，GitFlow版本控制系统，引入CocoaPod管理第三方库等，开发完成1.0版本；同时引入友盟统计点击时间，以及用户登录时长；配置Bugly搜集崩溃日志…        &lt;/li&gt;
+&lt;li&gt;独自搭建项目框架，GitFlow版本控制系统，引入CocoaPod管理第三方库等，开发完成1.0版本；同时引入友盟统计点击时间，以及用户登录时长；配置Bugly搜集崩溃日志等。    &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;a href=&quot;#三：项目名称：helmsman（舵手）&quot; class=&quot;headerlink&quot; title=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;/a&gt;三：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/id939511674?mt=8&amp;amp;l=cn&quot;&gt;&lt;font color= #0000ff&gt;helmsman（舵手）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2015/10-2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。。。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt;2015/10-2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;对项目中的蓝牙、Wi-Fi接收与发送指令功能进行抽离、解耦，整合为通讯模块，降低了APP与与硬件交互指令的复杂度；        &lt;/li&gt;
 &lt;li&gt;参照大疆的SDK，整理、制定公司智能船控的SDK的接口（航速、航向、偏移、抛锚、上传坐标等指令），并抽离相应功能；        &lt;/li&gt;
@@ -114,11 +114,7 @@
 &lt;li&gt;负责应用中部分页面的绘制，负责对数据的请求与解析，国际化处理等；&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;自我评价&quot;&gt;&lt;a href=&quot;#自我评价&quot; class=&quot;headerlink&quot; title=&quot;自我评价&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;自我评价&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;喜欢整洁的桌面，也喜欢整洁明了的Controller；&lt;/li&gt;
-&lt;li&gt;喜欢流畅的iOS和macOS操作系统，也喜欢自己实现的炫酷丝滑的页面；&lt;/li&gt;
-&lt;li&gt;喜欢不同的尝试与挑战…&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;自我评价&quot;&gt;&lt;a href=&quot;#自我评价&quot; class=&quot;headerlink&quot; title=&quot;自我评价&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;自我评价&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;喜欢户外，喜欢露宿，喜欢骑行，喜欢游泳…&lt;br&gt;只因喜欢未知的尝试与挑战；&lt;br&gt;骑行川藏，自学编程，通宵熬夜…&lt;br&gt;只是追求自我的超越；&lt;br&gt;喜欢编程，热爱编程，&lt;br&gt;更因它让我不忘初心，砥砺前行。        &lt;/p&gt;
 &lt;h2 id=&quot;个人社区&quot;&gt;&lt;a href=&quot;#个人社区&quot; class=&quot;headerlink&quot; title=&quot;个人社区&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;个人社区&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/nihong&quot;&gt;&lt;font color= #0000ff&gt;Github&lt;/font&gt;&lt;/a&gt;            &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://nihong.github.io&quot;&gt;&lt;font color= #0000ff&gt;个人博客&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
@@ -154,8 +150,8 @@
   
   <entry>
     <title>apache和PHP</title>
-    <link href="http://nihong.github.io/2017/03/13/apache%E5%92%8CPHP/"/>
-    <id>http://nihong.github.io/2017/03/13/apache和PHP/</id>
+    <link href="http://nihong.github.io/2017/03/13/apacheAndPHP/"/>
+    <id>http://nihong.github.io/2017/03/13/apacheAndPHP/</id>
     <published>2017-03-13T14:43:33.000Z</published>
     <updated>2017-03-17T13:46:40.000Z</updated>
     
