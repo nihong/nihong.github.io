@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-05T13:25:40.836Z</updated>
+  <updated>2018-03-06T12:30:35.454Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://nihong.github.io/2018/03/01/MyResume/"/>
     <id>http://nihong.github.io/2018/03/01/MyResume/</id>
     <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2018-03-05T13:25:40.836Z</updated>
+    <updated>2018-03-06T12:30:35.454Z</updated>
     
     <summary type="html">
     
@@ -85,7 +85,7 @@
 &lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;项目经验&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;a href=&quot;#一：项目名称：唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;/a&gt;一：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;唯美美妆&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2017/3 ~ 至今&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;唯美美妆，成立于2013年，是一家以香港为基地为国内用户提控折扣护肤品，香水及化妆品的专业女性美妆app。同类竞争对手例如小红书，美图美妆等。&lt;br&gt;&lt;strong&gt;工作成果:&lt;/strong&gt;            &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；通过第三方分析人脸熟悉（年龄，青春痘，色斑，颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品；        &lt;/li&gt;
+&lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；调用第三方SDK分析人脸属性（年龄、青春痘、色斑、颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品；        &lt;/li&gt;
 &lt;li&gt;首页瀑布流：追踪记录用户浏览的板块、商品、浏览时长、以及用户标签，结合应用中统计到的热门内容，为用户动态推荐浏览内容；并根据用户行为习惯，定期调整用户标签；        &lt;/li&gt;
 &lt;li&gt;活动页面：根据后台返回的数据，动态计算行高，自动适配页面中的图片、描述文本、水平滑动标题、纵向滑动列表、背景图等，能够满足营运人员对多种活动不同规格的排版需求，完美实现了数据驱动；                &lt;/li&gt;
 &lt;li&gt;商品详情页面：埋点统计多种点击事件，支持运营决策；对该页面中的列表进行“模块化”处理，减少了需求变更时对其他模块的影响；对本页面进行预加载，动画展示已有内容，减少用户等待时间。&lt;/li&gt;
@@ -105,7 +105,7 @@
 &lt;li&gt;参照大疆的SDK，整理、制定公司智能船控的SDK的接口（航速、航向、偏移、抛锚、上传坐标等指令），并抽离相应功能；        &lt;/li&gt;
 &lt;li&gt;与硬件工程师配合，调试、修整APP向船控发送指令的参数等·，减少传输过程中数据丢失，以及航向、航速的偏差等；        &lt;/li&gt;
 &lt;li&gt;读取船控的发送坐标位置，记录并绘制设备的轨迹图；        &lt;/li&gt;
-&lt;li&gt;绘制实现个人用户中心，朋友圈，设置等其他功能页面。&lt;/li&gt;
+&lt;li&gt;绘制实现个人用户中心、朋友圈、设置等其他功能页面。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;a href=&quot;#四：项目名称：优惠点（YoPoint）&quot; class=&quot;headerlink&quot; title=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;/a&gt;四：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/yopoint/id545628825?mt=8&quot;&gt;&lt;font color= #0000ff&gt;优惠点（YoPoint）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
