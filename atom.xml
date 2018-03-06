@@ -185,6 +185,26 @@
   </entry>
   
   <entry>
+    <title>收藏文章</title>
+    <link href="http://nihong.github.io/2017/01/06/CollectedArticle/"/>
+    <id>http://nihong.github.io/2017/01/06/CollectedArticle/</id>
+    <published>2017-01-06T15:18:00.000Z</published>
+    <updated>2018-03-06T15:30:24.385Z</updated>
+    
+    <summary type="html">
+    
+      子曰：温故而知新，可以为师矣。
+    
+    </summary>
+    
+      <category term="-好文" scheme="http://nihong.github.io/categories/%E5%A5%BD%E6%96%87/"/>
+    
+    
+      <category term="-其他" scheme="http://nihong.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Markdown Hexo NexT</title>
     <link href="http://nihong.github.io/2016/12/12/Markdown_Hexo_NexT%20/"/>
     <id>http://nihong.github.io/2016/12/12/Markdown_Hexo_NexT /</id>

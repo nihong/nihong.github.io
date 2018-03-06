@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2017/01/06/CollectedArticle/</loc>
+    <lastmod>2018-03-06T15:30:24.385Z</lastmod>
+    <data>
+        <display>
+        <title>收藏文章</title>
+        <pubTime>2017-01-06T15:18:00.000Z</pubTime>
+        
+        <tag>-其他</tag>
+         
+         
+           
+             
+              <breadCrumb title="-好文" url="http://nihong.github.io/categories/%E5%A5%BD%E6%96%87/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
     <lastmod>2018-03-06T12:30:35.454Z</lastmod>
     <data>
