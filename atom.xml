@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-09T14:32:16.394Z</updated>
+  <updated>2018-03-09T14:36:16.814Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -20,13 +20,11 @@
     <link href="http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/"/>
     <id>http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/</id>
     <published>2018-03-09T13:37:54.000Z</published>
-    <updated>2018-03-09T14:32:16.394Z</updated>
+    <updated>2018-03-09T14:36:16.814Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;###&lt;a href=&quot;http://blog.csdn.net/senwin2009/article/details/48439361&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;指针&lt;/a&gt;&lt;br&gt;&amp;gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;变量的内存地址就
+      &lt;h3 id=&quot;指针&quot;&gt;&lt;a href=&quot;#指针&quot; class=&quot;headerlink&quot; title=&quot;指针&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://blog.csdn.net/senwin2009/article/details/48439361&quot; target=&quot;_blan
     
     </summary>
     
