@@ -5,10 +5,10 @@
     
   <url>
     <loc>http://nihong.github.io/2017/01/06/CollectedArticle/</loc>
-    <lastmod>2018-03-06T15:30:24.385Z</lastmod>
+    <lastmod>2018-03-08T15:14:58.593Z</lastmod>
     <data>
         <display>
-        <title>收藏文章</title>
+        <title>随笔小记</title>
         <pubTime>2017-01-06T15:18:00.000Z</pubTime>
         
         <tag>-其他</tag>
@@ -25,7 +25,7 @@
     
   <url>
     <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
-    <lastmod>2018-03-06T12:30:35.454Z</lastmod>
+    <lastmod>2018-03-08T13:08:54.417Z</lastmod>
     <data>
         <display>
         <title>个人简历</title>
