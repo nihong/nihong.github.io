@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-08T13:08:54.417Z</updated>
+  <updated>2018-03-09T14:32:16.394Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于指针的一些认知及困惑</title>
+    <link href="http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/"/>
+    <id>http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/</id>
+    <published>2018-03-09T13:37:54.000Z</published>
+    <updated>2018-03-09T14:32:16.394Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;###&lt;a href=&quot;http://blog.csdn.net/senwin2009/article/details/48439361&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;指针&lt;/a&gt;&lt;br&gt;&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;变量的内存地址就
+    
+    </summary>
+    
+      <category term="Objective-c" scheme="http://nihong.github.io/categories/Objective-c/"/>
+    
+    
+      <category term="疑惑" scheme="http://nihong.github.io/tags/%E7%96%91%E6%83%91/"/>
+    
+  </entry>
   
   <entry>
     <title>个人简历</title>
@@ -189,7 +211,7 @@
     <link href="http://nihong.github.io/2017/01/06/CollectedArticle/"/>
     <id>http://nihong.github.io/2017/01/06/CollectedArticle/</id>
     <published>2017-01-06T15:18:00.000Z</published>
-    <updated>2018-03-08T15:14:58.593Z</updated>
+    <updated>2018-03-09T13:41:11.327Z</updated>
     
     <summary type="html">
     

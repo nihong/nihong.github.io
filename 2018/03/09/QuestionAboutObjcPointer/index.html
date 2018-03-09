@@ -71,7 +71,7 @@
 <link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="swift," />
+  <meta name="keywords" content="疑惑," />
 
 
 
@@ -89,16 +89,43 @@
 
 
 
-<meta name="description" content="晚上睡不着，就打开苹果的Developer网站上，瞅瞅有没有新鲜的东东。看到了这篇swift入门《 Start Developing iOS Apps (Swift) 》。由于之前项目上一直没有接触到swift，本文就站在一个oc角度上，欣赏一下其简洁便利的又“稀奇古怪”的使用方法：">
+<meta name="description" content="###指针&amp;gt;
+
+变量的内存地址就是该变量的指针,而用于保存内存地址（指针）的变量就是指针变量。
+
+关于指针的2个基本的运算符：    
+
+&amp;amp;：取地址运算符,用于读取后面变量的保存地址。是单目运算符,后面紧跟一个变量,         
+*：取变量运算符,用于读取该指针变量所指的变量。单目运算符,后面紧跟一个指针变量。
+
+12345678910111213141516171819202">
 <meta property="og:type" content="article">
-<meta property="og:title" content="swift 语法学习">
-<meta property="og:url" content="http://nihong.github.io/2016/07/03/learn_swift/index.html">
+<meta property="og:title" content="关于指针的一些认知及困惑">
+<meta property="og:url" content="http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/index.html">
 <meta property="og:site_name" content="NiHong的博客">
-<meta property="og:description" content="晚上睡不着，就打开苹果的Developer网站上，瞅瞅有没有新鲜的东东。看到了这篇swift入门《 Start Developing iOS Apps (Swift) 》。由于之前项目上一直没有接触到swift，本文就站在一个oc角度上，欣赏一下其简洁便利的又“稀奇古怪”的使用方法：">
-<meta property="og:updated_time" content="2017-03-12T11:18:09.000Z">
+<meta property="og:description" content="###指针&amp;gt;
+
+变量的内存地址就是该变量的指针,而用于保存内存地址（指针）的变量就是指针变量。
+
+关于指针的2个基本的运算符：    
+
+&amp;amp;：取地址运算符,用于读取后面变量的保存地址。是单目运算符,后面紧跟一个变量,         
+*：取变量运算符,用于读取该指针变量所指的变量。单目运算符,后面紧跟一个指针变量。
+
+12345678910111213141516171819202">
+<meta property="og:updated_time" content="2018-03-09T14:32:16.394Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="swift 语法学习">
-<meta name="twitter:description" content="晚上睡不着，就打开苹果的Developer网站上，瞅瞅有没有新鲜的东东。看到了这篇swift入门《 Start Developing iOS Apps (Swift) 》。由于之前项目上一直没有接触到swift，本文就站在一个oc角度上，欣赏一下其简洁便利的又“稀奇古怪”的使用方法：">
+<meta name="twitter:title" content="关于指针的一些认知及困惑">
+<meta name="twitter:description" content="###指针&amp;gt;
+
+变量的内存地址就是该变量的指针,而用于保存内存地址（指针）的变量就是指针变量。
+
+关于指针的2个基本的运算符：    
+
+&amp;amp;：取地址运算符,用于读取后面变量的保存地址。是单目运算符,后面紧跟一个变量,         
+*：取变量运算符,用于读取该指针变量所指的变量。单目运算符,后面紧跟一个指针变量。
+
+12345678910111213141516171819202">
 
 
 
@@ -126,13 +153,13 @@
 
 
 
-  <link rel="canonical" href="http://nihong.github.io/2016/07/03/learn_swift/"/>
+  <link rel="canonical" href="http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/"/>
 
 
 
 
 
-  <title> swift 语法学习 | NiHong的博客 </title>
+  <title> 关于指针的一些认知及困惑 | NiHong的博客 </title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
@@ -261,7 +288,7 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="http://nihong.github.io/2016/07/03/learn_swift/">
+    <link itemprop="mainEntityOfPage" href="http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="NiHong">
@@ -282,7 +309,7 @@
             
             
               
-                swift 语法学习
+                关于指针的一些认知及困惑
               
             
           </h1>
@@ -297,8 +324,8 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2016-07-03T13:05:25+08:00">
-                2016-07-03
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-03-09T21:37:54+08:00">
+                2018-03-09
               </time>
             
 
@@ -320,8 +347,8 @@
               
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/swift/" itemprop="url" rel="index">
-                    <span itemprop="name">swift</span>
+                  <a href="/categories/Objective-c/" itemprop="url" rel="index">
+                    <span itemprop="name">Objective-c</span>
                   </a>
                 </span>
 
@@ -338,8 +365,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2016/07/03/learn_swift/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/07/03/learn_swift/" itemprop="commentCount"></span>
+                <a href="/2018/03/09/QuestionAboutObjcPointer/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2018/03/09/QuestionAboutObjcPointer/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -365,34 +392,31 @@
       
 
       
-        <p>晚上睡不着，就打开苹果的Developer网站上，瞅瞅有没有新鲜的东东。看到了这篇swift入门<a href="https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1" target="_blank" rel="external">《 Start Developing iOS Apps (Swift) 》</a>。由于之前项目上一直没有接触到swift，本文就站在一个oc角度上，欣赏一下其简洁便利的又“稀奇古怪”的使用方法：<br>    <a id="more"></a></p>
+        <p>###<a href="http://blog.csdn.net/senwin2009/article/details/48439361" target="_blank" rel="external">指针</a><br>&gt;</p>
+<ul>
+<li>变量的内存地址就是该变量的<strong>指针</strong>,而用于保存内存地址（指针）的变量就是<strong>指针变量</strong>。</li>
+</ul>
+<p>关于指针的2个基本的运算符：    </p>
 <ol>
-<li><p>创建Btn</p>
-<pre><code>let button = UIButton() 
-</code></pre></li>
-<li><p>添加属性 （全是“点”语法呀，感觉一气呵成，着实简洁） </p>
-<pre><code>button.heightAnchor.constraint(equalToConstant: 44.0).isActive = true
-</code></pre></li>
-<li><p>监听Btn 的点击事件（类的名称是RatingControl）</p>
-<pre><code> // Setup the button action
-button.addTarget(self, action: #selector(RatingControl.ratingButtonTapped(button:)), for: .touchUpInside)
-</code></pre></li>
+<li>&amp;：取地址运算符,用于读取后面变量的保存地址。是单目运算符,后面紧跟一个变量,         </li>
+<li>*：取变量运算符,用于读取该指针变量所指的变量。单目运算符,后面紧跟一个指针变量。</li>
 </ol>
-<ol>
-<li><p>类中对象方法的书写方式</p>
-<pre><code>func doSomething()
-func doSomething(sender: UIButton)
-func doSomething(sender: UIButton, forEvent event: UIEvent)
-</code></pre></li>
-<li><p>for 循环的使用</p>
-<pre><code>for _ in 0..&lt;5 {
-// Create the button
-  let button = UIButton()
-button.backgroundColor = UIColor.red
-   addArrangedSubview(button)
-}
-</code></pre></li>
-</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">int main(int argc , char * argv[])</div><div class="line">&#123;</div><div class="line">    @autoreleasepool&#123;</div><div class="line">        // 定义一个int型变量</div><div class="line">        int a = 200;</div><div class="line">        // 定义一个指向int变量的指针</div><div class="line">        int* p;</div><div class="line">        // 将a变量的指针（内存地址）赋值给p指针变量</div><div class="line">        p = &amp;a;</div><div class="line">        // *p表示取出p指针所指变量</div><div class="line">        NSLog(@&quot;%d&quot; , *p);</div><div class="line">        // 对a变量先取指针，再获取该指针所指变量，又回到变量a，</div><div class="line">        // 因此下面代码将输出1（代表真）</div><div class="line">        NSLog(@&quot;%d&quot; , a == (*(&amp;a)));</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line">```			</div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line">👌，我们开始问题：</div><div class="line"></div><div class="line">###正常情况下</div></pre></td></tr></table></figure>
+<p>int main(int argc, char <em> argv[]) {<br>    @autoreleasepool {<br>        int i = 0x1;<br>        int</em> p = &i;<br>        NSNumber <em>n = @(0xffff);<br>        NSLog(@”%p”,n);<br>        NSString </em>d = @”d”;<br>        NSLog(@”%p”,d);<br>        NSString <em>s = @”s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的”;<br>        NSLog(@”%p”,s);<br>        NSObject </em>obj = [[NSObject alloc]init];<br>        NSLog(@”%p”,obj);<br>        NSLog(@””);<br>        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));<br>    }<br>}<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">打印结果</div><div class="line">		</div><div class="line">```			</div><div class="line">2018-03-09 21:44:58.069869+0800 FaceRecoginizeDemo[81911:9244520] 0xb0000000000ffff2</div><div class="line">2018-03-09 21:44:58.070636+0800 FaceRecoginizeDemo[81911:9244520] 0x10dc050d8</div><div class="line">2018-03-09 21:44:58.071263+0800 FaceRecoginizeDemo[81911:9244520] 0x10dc050f8</div><div class="line">2018-03-09 21:44:58.071951+0800 FaceRecoginizeDemo[81911:9244520] 0x60000000de60</div></pre></td></tr></table></figure></p>
+<p>我们知道打印指针，LLDB中应该返回该指针存储的对象的地址，比如：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">(lldb) po p</div><div class="line">0x00007ffee1ffc01c</div><div class="line"></div><div class="line">(lldb) po obj</div><div class="line">&lt;NSObject: 0x60000000de60&gt;</div></pre></td></tr></table></figure>
+<p>####NSNumber<br>其中对于指向NSNumber对象的指针n，由于 <a href="http://blog.devtang.com/2014/05/30/understand-tagged-pointer/" target="_blank" rel="external">Tagged Pointer</a> 机制，直接存储在指针本身中，故而在64位架构中NSNumber 成了一个没有 <strong>isa</strong> 假的对象;</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">//NSLog(@&quot;%p&quot;,n);</div><div class="line">2018-03-09 21:44:58.069869+0800 FaceRecoginizeDemo[81911:9244520] 0xb0000000000ffff2</div><div class="line"></div><div class="line">(lldb) po n-&gt;isa</div><div class="line">error: Couldn&apos;t apply expression side effects : Couldn&apos;t dematerialize a result variable: couldn&apos;t read its memory</div><div class="line">(lldb)</div></pre></td></tr></table></figure>
+<p>故而，会出现，当我们想真正打印指针p中存储的地址的时候–不显示地址，打印指针地址直接显示NSNumber数值的状况（我也只能这么向自己解释了）：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">(lldb) po *p</div><div class="line">1</div></pre></td></tr></table></figure>
+<p>####NSString + 困惑<br>但是，对于指向字符串类型的指针，我却无法解释：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">(lldb) po d</div><div class="line">d</div><div class="line"></div><div class="line">(lldb) po s</div><div class="line">s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的s是短发啊啊啥的</div></pre></td></tr></table></figure>
+<p>也是没有打印地址！直接显示对象的值！</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">2018-03-09 21:44:58.070636+0800 FaceRecoginizeDemo[81911:9244520] 0x10dc050d8</div><div class="line">2018-03-09 21:44:58.071263+0800 FaceRecoginizeDemo[81911:9244520] 0x10dc050f8</div></pre></td></tr></table></figure>
+<p>显然，一个占8个字节指针也是放不下这么多字符串的.<br>而且，为什么，*号后面➕指针，只能打印出基本数据类型呢？</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">(lldb) po *p</div><div class="line">1</div><div class="line">(lldb) po *n</div><div class="line">error: Couldn&apos;t apply expression side effects : Couldn&apos;t dematerialize a result variable: couldn&apos;t read its memory</div><div class="line">(lldb) po *s</div><div class="line"></div><div class="line">(lldb) po *d</div><div class="line"></div><div class="line">(lldb) po *obj</div></pre></td></tr></table></figure>
+<p>除了指向整型的指针，指向对象的指针无法通过<strong>*object</strong>获取该对象本身都？</p>
+<p>什么鬼？<br>？？？<br>？？<br>？</p>
 
       
     </div>
@@ -421,7 +445,7 @@ button.backgroundColor = UIColor.red
       
         <div class="post-tags">
           
-            <a href="/tags/swift/" rel="tag"># swift</a>
+            <a href="/tags/疑惑/" rel="tag"># 疑惑</a>
           
         </div>
       
@@ -434,8 +458,8 @@ button.backgroundColor = UIColor.red
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2016/03/17/Command-Line/" rel="next" title="Command_Line">
-                <i class="fa fa-chevron-left"></i> Command_Line
+              <a href="/2018/03/01/MyResume/" rel="next" title="个人简历">
+                <i class="fa fa-chevron-left"></i> 个人简历
               </a>
             
           </div>
@@ -443,10 +467,6 @@ button.backgroundColor = UIColor.red
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2016/12/12/Markdown_Hexo_NexT /" rel="prev" title="Markdown Hexo NexT">
-                Markdown Hexo NexT <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -472,8 +492,8 @@ button.backgroundColor = UIColor.red
           
   <div class="comments" id="comments">
     
-      <div class="ds-thread" data-thread-key="2016/07/03/learn_swift/"
-           data-title="swift 语法学习" data-url="http://nihong.github.io/2016/07/03/learn_swift/">
+      <div class="ds-thread" data-thread-key="2018/03/09/QuestionAboutObjcPointer/"
+           data-title="关于指针的一些认知及困惑" data-url="http://nihong.github.io/2018/03/09/QuestionAboutObjcPointer/">
       </div>
     
   </div>
