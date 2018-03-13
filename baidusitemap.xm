@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2016/03/09/QuestionAboutObjcPointer/</loc>
+    <lastmod>2018-03-12T16:12:37.967Z</lastmod>
+    <data>
+        <display>
+        <title>关于指针的一些认知及困惑</title>
+        <pubTime>2016-03-09T13:37:54.000Z</pubTime>
+        
+        <tag>疑惑</tag>
+         
+         
+           
+             
+              <breadCrumb title="Objective-c" url="http://nihong.github.io/categories/Objective-c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
     <lastmod>2018-03-11T15:47:48.932Z</lastmod>
     <data>
@@ -17,26 +37,6 @@
            
              
               <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2016/03/09/QuestionAboutObjcPointer/</loc>
-    <lastmod>2018-03-10T02:21:59.085Z</lastmod>
-    <data>
-        <display>
-        <title>关于指针的一些认知及困惑</title>
-        <pubTime>2016-03-09T13:37:54.000Z</pubTime>
-        
-        <tag>疑惑</tag>
-         
-         
-           
-             
-              <breadCrumb title="Objective-c" url="http://nihong.github.io/categories/Objective-c/"/>
           
         </display>
     </data>

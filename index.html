@@ -1590,6 +1590,13 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">(lldb) po *p</div><div class="line">1</div><div class="line">(lldb) po *n</div><div class="line">error: Couldn&apos;t apply expression side effects : Couldn&apos;t dematerialize a result variable: couldn&apos;t read its memory</div><div class="line">(lldb) po *s</div><div class="line"></div><div class="line">(lldb) po *d</div><div class="line"></div><div class="line">(lldb) po *obj</div></pre></td></tr></table></figure>
 <p>除了指向整型的指针，指向对象的指针无法通过<strong>*object</strong>获取该对象本身都？</p>
 <p>什么鬼？<br>？？？<br>？？<br>？</p>
+<hr>
+<p><strong>答案：</strong></p>
+<p>最近看了一篇关于LLDB的<a href="https://www.cnblogs.com/zhou--fei/p/6711232.html" target="_blank" rel="external">文章–认识Xcode中的重要成员：lldb调试器</a>—-引用的<a href="https://www.jianshu.com/p/e89af3e9a8d7" target="_blank" rel="external">原文</a>，其中讲到：</p>
+<blockquote>
+<p>在OC里所有的对象都是用指针表示的，所以一般用p、print、call、expression –打印的时候，打印出来的是对象的指针，而不是对象本身。如果我们想打印对象。我们需要使用命令选项:-O。为了更方便的使用，lldb为expression -O –定义了一个别名：po            </p>
+</blockquote>
+<p>————原来po打印的是对象，p打印的是指针！！</p>
 
           
         
