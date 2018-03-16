@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2018/03/16/OptimizeNetworking/</loc>
+    <lastmod>2018-03-16T14:54:45.314Z</lastmod>
+    <data>
+        <display>
+        <title>App 网络优化</title>
+        <pubTime>2018-03-16T13:44:26.000Z</pubTime>
+        
+        <tag>网络</tag>
+         
+         
+           
+             
+              <breadCrumb title="iOS" url="http://nihong.github.io/categories/iOS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2016/03/09/QuestionAboutObjcPointer/</loc>
     <lastmod>2018-03-12T16:12:37.967Z</lastmod>
     <data>
