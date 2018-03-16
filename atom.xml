@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-03-16T14:54:45.314Z</updated>
+  <updated>2018-03-16T16:53:23.780Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://nihong.github.io/2018/03/16/OptimizeNetworking/"/>
     <id>http://nihong.github.io/2018/03/16/OptimizeNetworking/</id>
     <published>2018-03-16T13:44:26.000Z</published>
-    <updated>2018-03-16T14:54:45.314Z</updated>
+    <updated>2018-03-16T16:53:23.780Z</updated>
     
     <summary type="html">
     
@@ -28,7 +28,9 @@
 &lt;ul&gt;
 &lt;li&gt;速度提升&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;直接用ip地址，避免域名的NDS解析（还能够解决域名劫持的问题）&lt;br&gt; 推荐使用阿里的 &lt;a href=&quot;https://ww
     
     </summary>
     
