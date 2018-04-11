@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
+    <lastmod>2018-04-11T14:35:20.982Z</lastmod>
+    <data>
+        <display>
+        <title>个人简历</title>
+        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
+        
+        <tag>简历</tag>
+         
+         
+           
+             
+              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2018/03/16/OptimizeNetworking/</loc>
     <lastmod>2018-03-16T17:03:07.820Z</lastmod>
     <data>
@@ -37,26 +57,6 @@
            
              
               <breadCrumb title="Objective-c" url="http://nihong.github.io/categories/Objective-c/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
-    <lastmod>2018-03-11T15:47:48.932Z</lastmod>
-    <data>
-        <display>
-        <title>个人简历</title>
-        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
-        
-        <tag>简历</tag>
-         
-         
-           
-             
-              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
           
         </display>
     </data>
