@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
-    <lastmod>2018-09-26T16:35:34.436Z</lastmod>
+    <lastmod>2018-09-26T16:46:14.961Z</lastmod>
     <data>
         <display>
         <title>个人简历</title>
