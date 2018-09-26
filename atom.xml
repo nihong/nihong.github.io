@@ -46,7 +46,7 @@
     <link href="http://nihong.github.io/2018/03/01/MyResume/"/>
     <id>http://nihong.github.io/2018/03/01/MyResume/</id>
     <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2018-04-11T14:35:20.982Z</updated>
+    <updated>2018-09-26T16:35:34.436Z</updated>
     
     <summary type="html">
     
@@ -70,7 +70,7 @@
 &lt;td style=&quot;text-align:center&quot;&gt;Roy&lt;/td&gt;
 &lt;td style=&quot;text-align:center&quot;&gt;男&lt;/td&gt;
 &lt;td style=&quot;text-align:center&quot;&gt;27&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;3.5年&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;4年&lt;/td&gt;
 &lt;td style=&quot;text-align:center&quot;&gt;CET-4&lt;/td&gt;
 &lt;td style=&quot;text-align:center&quot;&gt;海南大学（211）&lt;/td&gt;
 &lt;td style=&quot;text-align:center&quot;&gt;2014年&lt;/td&gt;
@@ -88,7 +88,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&quot;专业技能&quot;&gt;&lt;a href=&quot;#专业技能&quot; class=&quot;headerlink&quot; title=&quot;专业技能&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;专业技能&lt;/font&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;能够独立搭建项目框架，并进行内部测试、发版、上架、崩溃日志搜集、以及数据统计等流程；iPhone，iPad上的开发都有涉及；&lt;/li&gt;
-&lt;li&gt;熟练掌握Objective-C语言，正在学习Swift语言当中，有良好的面向对象编程思想；&lt;/li&gt;
+&lt;li&gt;熟练掌握Objective-C语言，有良好的面向对象编程思想；&lt;/li&gt;
 &lt;li&gt;对MVC、MVVM架构有一定的理解，喜欢轻薄简洁的Controller ；熟悉代理、观察者、单例、工厂模式等常用的设计模式的使用；&lt;/li&gt;
 &lt;li&gt;熟练使用Xcode，能灵活结合Debug View Hierarchy、LLDB、Charles、Reveal、Postman等工具独立快速熟悉新项目，及查找修复BUG；&lt;/li&gt;
 &lt;li&gt;熟练掌握 GIT版本控制器的使用，以及深刻了解GitFlow 工作流（现办公使用的是SourceTree）；&lt;/li&gt;
@@ -106,7 +106,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;智能硬件 -无人船（类似大疆无人机，主要做无线操控这一块）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;根据项目需求实现新的功能，对项目进行迭代开发。手机软件开发技术评估、框架搭建及可行性分析。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2014/10 ~ 2015/10 ： 力达计算机信息技术有限公司（50-100人，外资［非欧美］，泉福大厦）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2014/12 ~ 2015/4 ： 力达计算机信息技术有限公司（50-100人，外资［非欧美］，泉福大厦）&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;互联网/电子商务&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;前期参与新项目需求的讨论、编写需求文档、接口文档。根据项目需求实现新的功能。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -127,7 +127,7 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;a href=&quot;#三：项目名称：helmsman（舵手）&quot; class=&quot;headerlink&quot; title=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;/a&gt;三：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/id939511674?mt=8&amp;amp;l=cn&quot;&gt;&lt;font color= #0000ff&gt;helmsman（舵手）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2015/10 ～ 2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt; Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2015/4 ～ 2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt; Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;对项目中的蓝牙、Wi-Fi接收与发送指令功能进行抽离、解耦，整合为通讯模块，降低了APP与与硬件交互指令的复杂度；        &lt;/li&gt;
 &lt;li&gt;参照大疆的SDK，整理、制定公司智能船控的SDK的接口（航速、航向、偏移、抛锚、上传坐标等指令），并抽离相应功能；        &lt;/li&gt;
@@ -137,12 +137,12 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;a href=&quot;#四：项目名称：优惠点（YoPoint）&quot; class=&quot;headerlink&quot; title=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;/a&gt;四：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/yopoint/id545628825?mt=8&quot;&gt;&lt;font color= #0000ff&gt;优惠点（YoPoint）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2014/12 ～ 2015/10&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;“优惠点”类似大众点评，主要针对澳门市场，为用户展现附近商家的优惠活动。主要涵盖饮食、服装、酒店、交通、美容、家电、娱乐休闲等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2014/12 ～ 2015/4&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;“优惠点”类似大众点评，主要针对澳门市场，为用户展现附近商家的优惠活动。主要涵盖饮食、服装、酒店、交通、美容、家电、娱乐休闲等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;负责应用中部分页面的绘制，负责对数据的请求与解析，国际化处理等；&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;自我评价&quot;&gt;&lt;a href=&quot;#自我评价&quot; class=&quot;headerlink&quot; title=&quot;自我评价&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;自我评价&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;喜欢户外，喜欢露宿，喜欢骑行，喜欢游泳…&lt;br&gt;只因喜欢未知的尝试与挑战；&lt;br&gt;喜欢编程，热爱编程，&lt;br&gt;因它让我不忘初心，砥砺前行。        &lt;/p&gt;
+&lt;h2 id=&quot;自我评价&quot;&gt;&lt;a href=&quot;#自我评价&quot; class=&quot;headerlink&quot; title=&quot;自我评价&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;自我评价&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;喜欢户外，喜欢露宿，喜欢骑行，喜欢游泳…&lt;br&gt;只因喜欢未知的尝试与挑战；&lt;br&gt;喜欢编程，&lt;br&gt;享受细细打磨时的心静如许…        &lt;/p&gt;
 &lt;h2 id=&quot;个人社区&quot;&gt;&lt;a href=&quot;#个人社区&quot; class=&quot;headerlink&quot; title=&quot;个人社区&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;个人社区&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/nihong&quot;&gt;&lt;font color= #0000ff&gt;Github&lt;/font&gt;&lt;/a&gt;            &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://nihong.github.io&quot;&gt;&lt;font color= #0000ff&gt;个人博客&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
