@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2018/11/28/English-Resume/</loc>
+    <lastmod>2018-11-27T18:55:53.114Z</lastmod>
+    <data>
+        <display>
+        <title>English Resume</title>
+        <pubTime>2018-11-27T18:50:45.000Z</pubTime>
+        
+        <tag>简历</tag>
+         
+         
+           
+             
+              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
     <lastmod>2018-09-26T16:46:14.961Z</lastmod>
     <data>
