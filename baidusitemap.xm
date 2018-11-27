@@ -5,11 +5,11 @@
     
   <url>
     <loc>http://nihong.github.io/2018/11/28/English-Resume/</loc>
-    <lastmod>2018-11-27T18:55:53.114Z</lastmod>
+    <lastmod>2018-11-27T18:59:21.637Z</lastmod>
     <data>
         <display>
         <title>English Resume</title>
-        <pubTime>2018-11-27T18:50:45.000Z</pubTime>
+        <pubTime>2018-11-27T18:34:24.000Z</pubTime>
         
         <tag>简历</tag>
          
