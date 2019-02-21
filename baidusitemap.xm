@@ -4,12 +4,12 @@
 
     
   <url>
-    <loc>http://nihong.github.io/2018/11/28/English-Resume/</loc>
-    <lastmod>2018-11-28T01:18:16.511Z</lastmod>
+    <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
+    <lastmod>2019-02-21T05:14:59.913Z</lastmod>
     <data>
         <display>
-        <title>English Resume</title>
-        <pubTime>2018-11-27T18:34:24.000Z</pubTime>
+        <title>个人简历</title>
+        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
         
         <tag>简历</tag>
          
@@ -24,12 +24,12 @@
 
     
   <url>
-    <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
-    <lastmod>2018-09-26T16:46:14.961Z</lastmod>
+    <loc>http://nihong.github.io/2018/11/28/English-Resume/</loc>
+    <lastmod>2018-11-28T01:23:58.951Z</lastmod>
     <data>
         <display>
-        <title>个人简历</title>
-        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
+        <title>English Resume</title>
+        <pubTime>2018-11-27T18:34:24.000Z</pubTime>
         
         <tag>简历</tag>
          

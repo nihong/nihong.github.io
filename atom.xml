@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-11-28T01:18:16.511Z</updated>
+  <updated>2018-11-28T01:23:58.951Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://nihong.github.io/2018/11/28/English-Resume/"/>
     <id>http://nihong.github.io/2018/11/28/English-Resume/</id>
     <published>2018-11-27T18:34:24.000Z</published>
-    <updated>2018-11-28T01:18:16.511Z</updated>
+    <updated>2018-11-28T01:23:58.951Z</updated>
     
     <summary type="html">
     
@@ -168,7 +168,7 @@
     <link href="http://nihong.github.io/2018/03/01/MyResume/"/>
     <id>http://nihong.github.io/2018/03/01/MyResume/</id>
     <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2018-09-26T16:46:14.961Z</updated>
+    <updated>2019-02-21T05:14:59.913Z</updated>
     
     <summary type="html">
     
@@ -209,33 +209,32 @@
 &lt;li&gt;到岗时间：           一个月内&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;专业技能&quot;&gt;&lt;a href=&quot;#专业技能&quot; class=&quot;headerlink&quot; title=&quot;专业技能&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;专业技能&lt;/font&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;能够独立搭建项目框架，并进行内部测试、发版、上架、崩溃日志搜集、以及数据统计等流程；iPhone，iPad上的开发都有涉及；&lt;/li&gt;
+&lt;li&gt;熟悉客户端产品开发、测试、iTunes Connect发布、崩溃日志搜集、以及数据统计流程，参加过完整的商业级手机应用开发过程；能够独立搭建项目框架，iPhone、iPad上的开发都有涉及；&lt;/li&gt;
 &lt;li&gt;熟练掌握Objective-C语言，有良好的面向对象编程思想；&lt;/li&gt;
-&lt;li&gt;对MVC、MVVM架构有一定的理解，喜欢轻薄简洁的Controller ；熟悉代理、观察者、单例、工厂模式等常用的设计模式的使用；&lt;/li&gt;
-&lt;li&gt;熟练使用Xcode，能灵活结合Debug View Hierarchy、LLDB、Charles、Reveal、Postman等工具独立快速熟悉新项目，及查找修复BUG；&lt;/li&gt;
-&lt;li&gt;熟练掌握 GIT版本控制器的使用，以及深刻了解GitFlow 工作流（现办公使用的是SourceTree）；&lt;/li&gt;
-&lt;li&gt;能够独自搭建Cocoapod的工作环境，并引入、管理第三方开源库；&lt;/li&gt;
+&lt;li&gt;熟练掌握MVC、MVVM等架构 ；熟悉代理、观察者、单例、工厂模式等常用的设计模式的使用；&lt;/li&gt;
+&lt;li&gt;熟练使用Xcode，能灵活使用断点调试、LLDB、Instrument、Charles、Reveal、Postman、Debug View Hierarchy等工具独立快速熟悉新项目，debug，优化等；&lt;/li&gt;
 &lt;li&gt;熟悉HTTP、HTTPS及TCP/IP协议；对堆、栈、链表、二叉树等数据结构与算法也有一定了解；&lt;/li&gt;
-&lt;li&gt;熟练掌握Masonry、AFNetWorking、YTKNetWork、SDWebImage、MBProgress、YYKit、MJRefresh等第三方库的使用；&lt;/li&gt;
-&lt;li&gt;熟悉友盟分享、友盟统计，Bugly崩溃日志收集，Zendesk 客服系统等SDK的使用；&lt;/li&gt;
-&lt;li&gt;具有良好的英文阅读能力，能快速掌握新技能；Macdown，Xmind，Sketch等常用辅助工具平时也有使用。&lt;/li&gt;
+&lt;li&gt;熟练掌握AFNetWorking、SDWebImage、Masonry、YTKNetWork、YYKit、MBProgress、MJRefresh等第三方库的使用，并了解其底层实现；能独立封装常用的类库、组件；能够熟练编写iOS平台自定义控件和动画效果；&lt;/li&gt;
+&lt;li&gt;熟练掌握 GIT版本控制器的使用，熟悉GitFlow工作流进行并行开发（现办公使用的是SourceTree）；&lt;/li&gt;
+&lt;li&gt;能够独自搭建Cocoapod的工作环境，并引入、管理第三方开源库；&lt;/li&gt;
+&lt;li&gt;具有良好的英文阅读能力，能快速掌握新技能；Macdown，Xmind，Sketch，PxCook等常用辅助工具平时也有使用。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;工作经历&quot;&gt;&lt;a href=&quot;#工作经历&quot; class=&quot;headerlink&quot; title=&quot;工作经历&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;工作经历&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2017/3 ~ 至今 ： 珠海唯美网络科技有限公司（50-150人，B轮融资，清华科技园）&lt;/strong&gt;    &lt;/p&gt;
+&lt;h2 id=&quot;工作经历&quot;&gt;&lt;a href=&quot;#工作经历&quot; class=&quot;headerlink&quot; title=&quot;工作经历&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;工作经历&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2017/3 ~ 至今 ： 珠海唯美网络科技有限公司&lt;/strong&gt;    &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;电子商务（美妆品方面）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;    参与项目需求分析、产品设计和接口的编写；负责iOS客户端APP的开发。        &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;电子商务（美妆方面）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;    参与项目需求分析、产品设计和接口的编写；负责iOS客户端APP的开发。        &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2015/4 ~ 2017/3 ： 珠海无境科技有限公司（50人以下，创业型公司，横琴澳门青年创业谷）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2015/4 ~ 2017/3 ： 珠海无境科技有限公司&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;智能硬件 -无人船（类似大疆无人机，主要做无线操控这一块）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;根据项目需求实现新的功能，对项目进行迭代开发。手机软件开发技术评估、框架搭建及可行性分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;智能硬件（无人船）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;根据项目需求实现新的功能，对项目进行迭代开发。手机软件开发技术评估、框架搭建及可行性分析。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2014/12 ~ 2015/4 ： 力达计算机信息技术有限公司（50-100人，外资［非欧美］，泉福大厦）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2014/12 ~ 2015/4 ： 力达计算机信息技术有限公司&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;互联网/电子商务&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;前期参与新项目需求的讨论、编写需求文档、接口文档。根据项目需求实现新的功能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;互联网/电子商务（澳门“美团”）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;前期参与新项目需求的讨论、编写需求文档、接口文档。根据项目需求实现新的功能。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;项目经验&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;a href=&quot;#一：项目名称：唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;/a&gt;一：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;唯美美妆&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2017/3 ~ 至今&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;唯美美妆，成立于2013年，是一家以香港为基地为国内用户提控折扣护肤品，香水及化妆品的专业女性美妆app。同类竞争对手例如小红书，美图美妆等。&lt;br&gt;&lt;strong&gt;工作成果:&lt;/strong&gt;            &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；调用第三方SDK分析人脸属性（年龄、青春痘、色斑、颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品；        &lt;/li&gt;
+&lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；根据照片分析人脸属性（年龄、青春痘、色斑、颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品；        &lt;/li&gt;
 &lt;li&gt;首页瀑布流：追踪记录用户浏览的板块、商品、浏览时长、以及用户标签，结合应用中统计到的热门内容，为用户动态推荐浏览内容；并根据用户行为习惯，定期调整用户标签；        &lt;/li&gt;
 &lt;li&gt;活动页面：根据后台返回的数据，动态计算行高，自动适配页面中的图片、描述文本、水平滑动标题、纵向滑动列表、背景图等，能够满足营运人员对多种活动不同规格的排版需求，完美实现了数据驱动；                &lt;/li&gt;
 &lt;li&gt;商品详情页面：埋点统计多种点击事件，支持运营决策；对该页面中的列表进行“模块化”处理，减少了需求变更时对其他模块的影响；对本页面进行预加载，动画展示已有内容，减少用户等待时间。&lt;/li&gt;
@@ -264,7 +263,7 @@
 &lt;li&gt;负责应用中部分页面的绘制，负责对数据的请求与解析，国际化处理等；&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;自我评价&quot;&gt;&lt;a href=&quot;#自我评价&quot; class=&quot;headerlink&quot; title=&quot;自我评价&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;自我评价&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;喜欢户外，喜欢露宿，喜欢骑行，喜欢游泳…&lt;br&gt;只因喜欢未知的尝试与挑战；&lt;br&gt;喜欢编程，&lt;br&gt;享受细细打磨时的心静如许…        &lt;/p&gt;
+&lt;h2 id=&quot;自我评价&quot;&gt;&lt;a href=&quot;#自我评价&quot; class=&quot;headerlink&quot; title=&quot;自我评价&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;自我评价&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;喜欢户外，喜欢露宿，喜欢骑行，喜欢游泳…&lt;br&gt;喜欢未知的尝试与挑战；&lt;br&gt;享受探索，享受尝试，享受突破，享受编程，&lt;br&gt;享受“厚积薄发”的成就感。&lt;/p&gt;
 &lt;h2 id=&quot;个人社区&quot;&gt;&lt;a href=&quot;#个人社区&quot; class=&quot;headerlink&quot; title=&quot;个人社区&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;个人社区&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/nihong&quot;&gt;&lt;font color= #0000ff&gt;Github&lt;/font&gt;&lt;/a&gt;            &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://nihong.github.io&quot;&gt;&lt;font color= #0000ff&gt;个人博客&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
