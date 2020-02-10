@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nihong.github.io/"/>
-  <updated>2018-11-28T01:23:58.951Z</updated>
+  <updated>2019-10-15T15:16:21.749Z</updated>
   <id>http://nihong.github.io/</id>
   
   <author>
@@ -16,266 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>English Resume</title>
-    <link href="http://nihong.github.io/2018/11/28/English-Resume/"/>
-    <id>http://nihong.github.io/2018/11/28/English-Resume/</id>
-    <published>2018-11-27T18:34:24.000Z</published>
-    <updated>2018-11-28T01:23:58.951Z</updated>
+    <title>collectArticles</title>
+    <link href="http://nihong.github.io/2019/10/13/collectArticles/"/>
+    <id>http://nihong.github.io/2019/10/13/collectArticles/</id>
+    <published>2019-10-13T01:26:39.000Z</published>
+    <updated>2019-10-15T15:16:21.749Z</updated>
     
     <summary type="html">
     
-      &lt;center&gt;&lt;font color=#66b8f0  size = 6&gt;Resume&lt;/font&gt;&lt;/center&gt;
-
-
-&lt;h2 id=&quot;Personal-Data&quot;&gt;&lt;a href=&quot;#Personal-Data&quot; class=&quot;headerlink&quot; title=&quot;Personal Data&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0  size = 4&gt;Personal Data&lt;/font&gt;&lt;/h2&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Name&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Gender&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Age&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Experience&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;English level&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Graduation college&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Graduation date&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Dgree&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Place of residence&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Email&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;Phone number&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Roy&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Male&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;27&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;4years&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;CET-4&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Hainan University (211)&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;2014&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Undergraduate course&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Zhuhai&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;roygao666@163.com&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;13928041967&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&quot;Objective&quot;&gt;&lt;a href=&quot;#Objective&quot; class=&quot;headerlink&quot; title=&quot;Objective&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;Objective&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Desired Position: iOS development engineer&lt;/li&gt;
-&lt;li&gt;Job Nature: Full-time&lt;/li&gt;
-&lt;li&gt;Current Status: On the job&lt;/li&gt;
-&lt;li&gt;Arrival Time: Within one month&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;Professional-Skills&quot;&gt;&lt;a href=&quot;#Professional-Skills&quot; class=&quot;headerlink&quot; title=&quot;Professional Skills&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;Professional Skills&lt;/font&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Able to independently build the project framework and conduct internal testing, release, shelf release, crash log collection, data statistics and other processes; IPhone, iPad;&lt;/li&gt;
-&lt;li&gt;Proficient in objective-c language, with good object-oriented programming ideas;&lt;/li&gt;
-&lt;li&gt;Have a certain understanding of MVC and MVVM architecture, and like thin and concise Controller; Familiar with agents, observers, singletons, factory patterns and other common design patterns;&lt;/li&gt;
-&lt;li&gt;Proficient in Xcode, flexible in combining Debug View Hierarchy, LLDB, Charles, Reveal, Postman and other tools to quickly get familiar with new projects and find and fix bugs independently;&lt;/li&gt;
-&lt;li&gt;Proficient in the use of GIT version controller and profound understanding of GitFlow workflow (SourceTree is now used in the office);&lt;/li&gt;
-&lt;li&gt;Able to build Cocoapod working environment on my own, introduce and manage third-party open source libraries;&lt;/li&gt;
-&lt;li&gt;Familiar with HTTP, HTTPS and TCP/IP protocols; I also have a certain understanding of data structures and algorithms such as heap, stack, linked list and binary tree.&lt;/li&gt;
-&lt;li&gt;Master Masonry, AFNetWorking, YTKNetWork, SDWebImage, MBProgress, YYKit, MJRefresh and other third-party libraries;&lt;/li&gt;
-&lt;li&gt;Familiar with youmeng sharing, youmeng statistics, Bugly crash log collection, Zendesk customer service system and other SDK applications;&lt;/li&gt;
-&lt;li&gt;Good English reading ability, able to quickly master new skills; Macdown, Xmind, Sketch and other common auxiliary tools are also used in daily life.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;Work-Experience&quot;&gt;&lt;a href=&quot;#Work-Experience&quot; class=&quot;headerlink&quot; title=&quot;Work Experience&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;Work Experience&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2017/3 ~ present ： Zhuhai Vmei Network Technology Co., LTD&lt;/strong&gt;    &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Position：&lt;/strong&gt;iOS Development Engineer&lt;br&gt;&lt;strong&gt;Industry：&lt;/strong&gt;e-commerce (beauty cosmetics)&lt;br&gt;&lt;strong&gt;Responsibilities：&lt;/strong&gt;    participated in project requirements analysis, product design and interface preparation; Responsible for the development of iOS client APP.        &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2015/4 ~ 2017/3 ： Zhuhai Wujing Technology Co., LTD&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Position：&lt;/strong&gt;iOS Development Engineer&lt;br&gt;&lt;strong&gt;Industry：&lt;/strong&gt;Intelligent hardware - unmanned ship (like DJI)&lt;br&gt;&lt;strong&gt;Responsibilities：&lt;/strong&gt;Implement new functions according to the project requirements, and develop the project iteratively. Mobile phone software development technology evaluation, framework construction and feasibility analysis.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2014/12 ~ 2015/4 ： Lida Computer Information Technology co., LTD&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Position：&lt;/strong&gt;iOS Development Engineer&lt;br&gt;&lt;strong&gt;Industry：&lt;/strong&gt;e-commerce&lt;br&gt;&lt;strong&gt;Responsibilities：&lt;/strong&gt; participated in the discussion of new project requirements in the early stage, wrote requirements documents and interface documents. Implement new functionality based on project requirements.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;Experience&quot;&gt;&lt;a href=&quot;#Experience&quot; class=&quot;headerlink&quot; title=&quot;Experience&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;Experience&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;Ⅰ：Project-name：Vmei-唯美美妆&quot;&gt;&lt;a href=&quot;#Ⅰ：Project-name：Vmei-唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;Ⅰ：Project name：Vmei(唯美美妆)&quot;&gt;&lt;/a&gt;Ⅰ：Project name：&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;Vmei(唯美美妆)&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Time：&lt;/strong&gt; 2017/3 ~ Present&lt;br&gt;&lt;strong&gt;Project description：&lt;/strong&gt; Vmei, launched in 2013, is an e-commerce APP that is deeply rooted in the field of women’s cosmetics and cosmetics. It has about 5 million registered users and lives over 50,000 a day. Similar competitive products such as small red book, beauty makeup, and so on.&lt;br&gt;&lt;strong&gt;Achievements:&lt;/strong&gt;            &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Take photos to analyze skin quality: track the coordinates of key points of the face, analyze the distance between the face and the screen, give voice prompts, and take photos automatically when blinking; Call the third-party SDK to analyze face attributes (age, acne, color spot, appearance level, etc.); Add label attributes for users, combine with background algorithm, dynamically screen recommended products for users;        &lt;/li&gt;
-&lt;li&gt;Waterfall flow on the home page: track and record the boards, products, browsing time and user tags that users browse, and recommend browsing content dynamically for users based on the hot content in the application; And according to user behavior habits, adjust user labels regularly;        &lt;/li&gt;
-&lt;li&gt;Activity page: according to the data returned from the background, dynamically calculate the row height, and automatically adapt the picture, description text, horizontal sliding title, longitudinal sliding list, background picture and other images in the page, which can meet the typesetting requirements of operators for various activities and different specifications, and perfectly realize the data-driven;                &lt;/li&gt;
-&lt;li&gt;Product details page: buried points count a variety of click events to support operational decisions; “Modularize” the list in this page to reduce the impact on other modules when requirements change; Preload this page and animate the existing content to reduce the user’s waiting time.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;Ⅱ：Project-name：Meibar-Assistant&quot;&gt;&lt;a href=&quot;#Ⅱ：Project-name：Meibar-Assistant&quot; class=&quot;headerlink&quot; title=&quot;Ⅱ：Project name：Meibar Assistant&quot;&gt;&lt;/a&gt;Ⅱ：Project name：Meibar Assistant&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Time：&lt;/strong&gt; 2017/11/5 ~ 2017/11/28&lt;br&gt;&lt;strong&gt;roject description&lt;/strong&gt;：Meibar Assistant, the app is mainly used to assist the company’s offline store operation, running on iPad. The main functions are: according to the staff search booking customers, customers to the store to arrange staff scheduling, adding full-time and part-time staff, staff daily scheduling leave, statistics of staff attendance, etc..&lt;br&gt;&lt;strong&gt;Achievements：&lt;/strong&gt;                                    &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Held meetings with store manager, project manager and background staff to discuss project requirements, developed development documents and drew rough flow charts.&lt;/li&gt;
-&lt;li&gt;Independently built the project framework, GitFlow version control system, introduced CocoaPod third-party library for CocoaPod management, and completed the 1.0 version; At the same time, the introduction of youmeng statistics click time, and user login time; Configure Bugly to collect crash logs, and so on.    &lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;Ⅲ：Project-name：Helmsman（舵手）&quot;&gt;&lt;a href=&quot;#Ⅲ：Project-name：Helmsman（舵手）&quot; class=&quot;headerlink&quot; title=&quot;Ⅲ：Project name：Helmsman（舵手）&quot;&gt;&lt;/a&gt;Ⅲ：Project name：&lt;a href=&quot;https://itunes.apple.com/cn/app/id939511674?mt=8&amp;amp;l=cn&quot;&gt;&lt;font color= #0000ff&gt;Helmsman（舵手）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Time：&lt;/strong&gt; 2015/4 ～ 2017/3&lt;br&gt;&lt;strong&gt;Project Description：&lt;/strong&gt; Helmsman is a tool type App,By wireless transmission module matching with steering gear on the link, and, in turn, to achieve control of the steering gear, navigation, anchoring, cruise, positioning, debugging, etc; At the same time the APP is also the supplementary routes simple social functions such as sharing, comments, some praise and online mall, etc. This project belongs to hengqin macau youth entrepreneurship valley.&lt;br&gt;&lt;strong&gt;Working Achievement：&lt;/strong&gt;     &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Integrated the functions of bluetooth and wi-fi receiving and sending instructions in the project into a communication module, which reduced the complexity of the interaction between APP and hardware;  &lt;/li&gt;
-&lt;li&gt;According to the SDK of DJI, sort out and formulate the interface of the SDK of the company’s intelligent ship control (instructions of speed, course, deviation, anchoring and uploading coordinates, etc.), and summarize the corresponding functions;  &lt;/li&gt;
-&lt;li&gt;Cooperate with hardware engineers to debug and repair the parameters of the instructions sent by the APP to ship control; · reduce data loss during transmission and deviation of course and speed;  &lt;/li&gt;
-&lt;li&gt;Read the sending coordinate position of ship control, record and draw the track diagram of equipment;  &lt;/li&gt;
-&lt;li&gt;Draw and implement other functional pages such as personal user center, circle of friends and Settings.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;Ⅳ：Project-name：YoPoint（优惠点）&quot;&gt;&lt;a href=&quot;#Ⅳ：Project-name：YoPoint（优惠点）&quot; class=&quot;headerlink&quot; title=&quot;Ⅳ：Project name：YoPoint（优惠点）&quot;&gt;&lt;/a&gt;Ⅳ：Project name：&lt;a href=&quot;https://itunes.apple.com/cn/app/yopoint/id545628825?mt=8&quot;&gt;&lt;font color= #0000ff&gt;YoPoint（优惠点）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Time：&lt;/strong&gt; 2014/12 ～ 2015/4&lt;br&gt;&lt;strong&gt;roject Description：&lt;/strong&gt;Similar to dianping, “YoPoint” are mainly targeted at the Macao market and show preferential activities of nearby merchants to users. It mainly covers food, clothing, hotels, transportation, beauty, home appliances, entertainment and leisure.&lt;br&gt;&lt;strong&gt;Working Achievement：&lt;/strong&gt;                                &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Responsible for the drawing of some pages in the application, data request and analysis, internationalization processing, etc.;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;Self-Evaluation&quot;&gt;&lt;a href=&quot;#Self-Evaluation&quot; class=&quot;headerlink&quot; title=&quot;Self Evaluation&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;Self Evaluation&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;Like outdoor, like sleeping out, like riding, like swimming…&lt;br&gt;Because I like unknown trials and challenges;&lt;br&gt;Riding sichuan-tibet line and learning programming by myself is the most fulfilling thing for me.    &lt;/p&gt;
-&lt;h2 id=&quot;My-Website&quot;&gt;&lt;a href=&quot;#My-Website&quot; class=&quot;headerlink&quot; title=&quot;My Website&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;My Website&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/nihong&quot;&gt;&lt;font color= #0000ff&gt;Github&lt;/font&gt;&lt;/a&gt;            &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://nihong.github.io&quot;&gt;&lt;font color= #0000ff&gt;Blog&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;Display&quot;&gt;&lt;a href=&quot;#Display&quot; class=&quot;headerlink&quot; title=&quot;Display&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;Display&lt;/font&gt;&lt;/h2&gt;&lt;img src=&quot;/2018/11/28/English-Resume/WechatIMG761.png&quot; alt=&quot;船控&quot; title=&quot;船控&quot;&gt;
+      &lt;p&gt;1.深入理解RunLoop  [&lt;a href=&quot;https://blog.ibireme.com/2015/05/18/runloop/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://blog.ibireme.com/2015/05/18
     
     </summary>
     
-      <category term="其他" scheme="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
-    
-    
-      <category term="简历" scheme="http://nihong.github.io/tags/%E7%AE%80%E5%8E%86/"/>
     
   </entry>
   
   <entry>
-    <title>App 网络优化</title>
-    <link href="http://nihong.github.io/2018/03/16/OptimizeNetworking/"/>
-    <id>http://nihong.github.io/2018/03/16/OptimizeNetworking/</id>
-    <published>2018-03-16T13:44:26.000Z</published>
-    <updated>2018-03-16T17:03:07.820Z</updated>
+    <title>About Me</title>
+    <link href="http://nihong.github.io/2018/08/08/About-Me/"/>
+    <id>http://nihong.github.io/2018/08/08/About-Me/</id>
+    <published>2018-08-08T09:19:49.000Z</published>
+    <updated>2020-02-10T09:38:58.179Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;优化方向&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;速度提升&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;直接用ip地址，避免域名的NDS解析（还能够解决域名劫持的问题）&lt;br&gt; 推荐使用阿里的 &lt;a href=&quot;https://ww
-    
-    </summary>
-    
-      <category term="iOS" scheme="http://nihong.github.io/categories/iOS/"/>
-    
-    
-      <category term="网络" scheme="http://nihong.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>个人简历</title>
-    <link href="http://nihong.github.io/2018/03/01/MyResume/"/>
-    <id>http://nihong.github.io/2018/03/01/MyResume/</id>
-    <published>2018-03-01T14:34:24.000Z</published>
-    <updated>2019-02-21T05:49:32.512Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;个人资料&quot;&gt;&lt;a href=&quot;#个人资料&quot; class=&quot;headerlink&quot; title=&quot;个人资料&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0  size = 4&gt;个人资料&lt;/font&gt;&lt;/h2&gt;&lt;table&gt;
+      &lt;p&gt;#&lt;center&gt;个人简历&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;###个人资料&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&quot;text-align:center&quot;&gt;姓名&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;性别&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;年龄&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;经验&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;英语水平&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;毕业院校&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;毕业时间&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;学历&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;现居&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;邮箱&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Roy&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;男&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;27&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;4年&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;CET-4&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;海南大学（211）&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;2014年&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;本科&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;珠海&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;roygao666@163.com&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&quot;求职意向&quot;&gt;&lt;a href=&quot;#求职意向&quot; class=&quot;headerlink&quot; title=&quot;求职意向&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;求职意向&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;期望职位：        iOS开发工程师                          &lt;/li&gt;
-&lt;li&gt;工作性质：        全职                              &lt;/li&gt;
-&lt;li&gt;目前状况：           在职        &lt;/li&gt;
-&lt;li&gt;到岗时间：           一个月内&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;专业技能&quot;&gt;&lt;a href=&quot;#专业技能&quot; class=&quot;headerlink&quot; title=&quot;专业技能&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;专业技能&lt;/font&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;熟悉客户端产品开发、测试、iTunes Connect发布、崩溃日志搜集、以及数据统计流程，参加过完整的商业级手机应用开发过程；能够独立搭建项目框架，iPhone、iPad上的开发都有涉及；&lt;/li&gt;
-&lt;li&gt;熟练掌握Objective-C语言，有良好的面向对象编程思想；&lt;/li&gt;
-&lt;li&gt;熟练掌握MVC、MVVM等架构 ；熟悉代理、观察者、单例、工厂模式等常用的设计模式的使用；&lt;/li&gt;
-&lt;li&gt;熟练使用Xcode，能灵活使用断点调试、LLDB、Instrument、Charles、Reveal、Postman、Debug View Hierarchy等工具独立快速熟悉新项目，debug，优化等；&lt;/li&gt;
-&lt;li&gt;熟悉HTTP、HTTPS及TCP/IP协议；对堆、栈、链表、二叉树等数据结构与算法也有一定了解；&lt;/li&gt;
-&lt;li&gt;熟练掌握AFNetWorking、SDWebImage、Masonry、YTKNetWork、YYKit、MBProgress、MJRefresh等第三方库的使用，并了解其底层实现；能独立封装常用的类库、组件；能够熟练编写iOS平台自定义控件和动画效果；&lt;/li&gt;
-&lt;li&gt;熟练掌握 GIT版本控制器的使用，熟悉GitFlow工作流进行并行开发（现办公使用的是SourceTree）；&lt;/li&gt;
-&lt;li&gt;能够独自搭建Cocoapod的工作环境，并引入、管理第三方开源库；&lt;/li&gt;
-&lt;li&gt;具有良好的英文阅读能力，能快速掌握新技能；Macdown，Xmind，Sketch，PxCook等常用辅助工具平时也有使用。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;工作经历&quot;&gt;&lt;a href=&quot;#工作经历&quot; class=&quot;headerlink&quot; title=&quot;工作经历&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;工作经历&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2017/3 ~ 至今 ： 珠海唯美网络科技有限公司&lt;/strong&gt;    &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;电子商务（美妆方面）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;    参与项目需求分析、产品设计和接口的编写；负责iOS客户端APP的开发。        &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2015/4 ~ 2017/3 ： 珠海无境科技有限公司&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;智能硬件（无人船）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;根据项目需求实现新的功能，对项目进行迭代开发。手机软件开发技术评估、框架搭建及可行性分析。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2014/12 ~ 2015/4 ： 力达计算机信息技术有限公司&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;职位：&lt;/strong&gt;iOS开发工程师&lt;br&gt;&lt;strong&gt;行业：&lt;/strong&gt;互联网/电子商务（澳门“美团”）&lt;br&gt;&lt;strong&gt;职责：&lt;/strong&gt;前期参与新项目需求的讨论、编写需求文档、接口文档。根据项目需求实现新的功能。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;项目经验&lt;/font&gt;&lt;/h2&gt;&lt;h4 id=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;a href=&quot;#一：项目名称：唯美美妆&quot; class=&quot;headerlink&quot; title=&quot;一：项目名称：唯美美妆&quot;&gt;&lt;/a&gt;一：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/wei-mei-mei-zhuang-vmei-si/id959780933?mt=8&quot;&gt;&lt;font color= #0000ff&gt;唯美美妆&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2017/3 ~ 至今&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;唯美美妆，成立于2013年，是一家以香港为基地为国内用户提控折扣护肤品，香水及化妆品的专业女性美妆app。同类竞争对手例如小红书，美图美妆等。&lt;br&gt;&lt;strong&gt;工作成果:&lt;/strong&gt;            &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;拍照分析肤质：跟踪人脸关键点坐标，分析脸部与屏幕距离，语音提示，眨眼自动拍照；根据照片分析人脸属性（年龄、青春痘、色斑、颜值等）；为用户添加标签属性，结合后台算法，动态为用户筛选推荐商品；        &lt;/li&gt;
-&lt;li&gt;首页瀑布流：追踪记录用户浏览的板块、商品、浏览时长、以及用户标签，结合应用中统计到的热门内容，为用户动态推荐浏览内容；并根据用户行为习惯，定期调整用户标签；        &lt;/li&gt;
-&lt;li&gt;活动页面：根据后台返回的数据，动态计算行高，自动适配页面中的图片、描述文本、水平滑动标题、纵向滑动列表、背景图等，能够满足营运人员对多种活动不同规格的排版需求，完美实现了数据驱动；                &lt;/li&gt;
-&lt;li&gt;商品详情页面：埋点统计多种点击事件，支持运营决策；对该页面中的列表进行“模块化”处理，减少了需求变更时对其他模块的影响；对本页面进行预加载，动画展示已有内容，减少用户等待时间。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;二：项目名称：美吧助手-—-不需上线&quot;&gt;&lt;a href=&quot;#二：项目名称：美吧助手-—-不需上线&quot; class=&quot;headerlink&quot; title=&quot;二：项目名称：美吧助手 — 不需上线&quot;&gt;&lt;/a&gt;二：项目名称：美吧助手 — 不需上线&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2017/11/5 ~ 2017/11/28&lt;br&gt;&lt;strong&gt;项目描述&lt;/strong&gt;：美吧助手作为一款于公司线下实体店中使用的，运行于iPad上的管理工具，具有统计员工考勤、员工日常排班，搜索员工预约的客户，以及添加职员等常用功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                    &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;与店长、项目经理、后台人员共同开会讨论项目需求，制定开发文档，绘制大概流程图。        &lt;/li&gt;
-&lt;li&gt;独自搭建项目框架，GitFlow版本控制系统，引入CocoaPod管理第三方库等，开发完成1.0版本；同时引入友盟统计点击时间，以及用户登录时长；配置Bugly搜集崩溃日志等。    &lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;a href=&quot;#三：项目名称：helmsman（舵手）&quot; class=&quot;headerlink&quot; title=&quot;三：项目名称：helmsman（舵手）&quot;&gt;&lt;/a&gt;三：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/id939511674?mt=8&amp;amp;l=cn&quot;&gt;&lt;font color= #0000ff&gt;helmsman（舵手）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2015/4 ～ 2017/3&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt; Helmsman是一款类似大疆的DJI GO的工具型App，对匹配的船控进行远程无线遥控操，实现导航，抛锚，巡航，定位等诸多功能；并附带好友之间分享航线，评论，点赞等简单社交功能；通过该App对无人船进行相应设置调试等；以及能够搜集客户反馈；后续还要实现在线商城等功能。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                    &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;对项目中的蓝牙、Wi-Fi接收与发送指令功能进行抽离、解耦，整合为通讯模块，降低了APP与与硬件交互指令的复杂度；        &lt;/li&gt;
-&lt;li&gt;参照大疆的SDK，整理、制定公司智能船控的SDK的接口（航速、航向、偏移、抛锚、上传坐标等指令），并抽离相应功能；        &lt;/li&gt;
-&lt;li&gt;与硬件工程师配合，调试、修整APP向船控发送指令的参数等·，减少传输过程中数据丢失，以及航向、航速的偏差等；        &lt;/li&gt;
-&lt;li&gt;读取船控的发送坐标位置，记录并绘制设备的轨迹图；        &lt;/li&gt;
-&lt;li&gt;绘制实现个人用户中心、朋友圈、设置等其他功能页面。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;a href=&quot;#四：项目名称：优惠点（YoPoint）&quot; class=&quot;headerlink&quot; title=&quot;四：项目名称：优惠点（YoPoint）&quot;&gt;&lt;/a&gt;四：项目名称：&lt;a href=&quot;https://itunes.apple.com/cn/app/yopoint/id545628825?mt=8&quot;&gt;&lt;font color= #0000ff&gt;优惠点（YoPoint）&lt;/font&gt;&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;时    间：&lt;/strong&gt; 2014/12 ～ 2015/4&lt;br&gt;&lt;strong&gt;项目描述：&lt;/strong&gt;“优惠点”类似大众点评，主要针对澳门市场，为用户展现附近商家的优惠活动。主要涵盖饮食、服装、酒店、交通、美容、家电、娱乐休闲等。&lt;br&gt;&lt;strong&gt;工作成果：&lt;/strong&gt;                                &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;负责应用中部分页面的绘制，负责对数据的请求与解析，国际化处理等；&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;自我评价&quot;&gt;&lt;a href=&quot;#自我评价&quot; class=&quot;headerlink&quot; title=&quot;自我评价&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;自我评价&lt;/font&gt;&lt;/h2&gt;&lt;p&gt;喜欢户外，喜欢露宿，喜欢骑行，喜欢游泳…&lt;br&gt;喜欢未知的尝试与挑战；&lt;br&gt;享受探索，享受尝试，享受突破，享受编程，&lt;br&gt;享受“厚积薄发”的成就感。&lt;/p&gt;
-&lt;h2 id=&quot;个人社区&quot;&gt;&lt;a href=&quot;#个人社区&quot; class=&quot;headerlink&quot; title=&quot;个人社区&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;个人社区&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/nihong&quot;&gt;&lt;font color= #0000ff&gt;Github&lt;/font&gt;&lt;/a&gt;            &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://nihong.github.io&quot;&gt;&lt;font color= #0000ff&gt;个人博客&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;作品展示&quot;&gt;&lt;a href=&quot;#作品展示&quot; class=&quot;headerlink&quot; title=&quot;作品展示&quot;&gt;&lt;/a&gt;&lt;font color=#66b8f0 size = 4&gt;作品展示&lt;/font&gt;&lt;/h2&gt;&lt;img src=&quot;/2018/03/01/MyResume/vmei_homepage.png&quot; alt=&quot;唯美美妆·主页&quot; title=&quot;唯美美妆·主页&quot;&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;性别&lt;/th
     
     </summary>
     
-      <category term="其他" scheme="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
     
-    
-      <category term="简历" scheme="http://nihong.github.io/tags/%E7%AE%80%E5%8E%86/"/>
+      <category term="介绍" scheme="http://nihong.github.io/tags/%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
@@ -306,50 +82,6 @@
       <category term="apache" scheme="http://nihong.github.io/tags/apache/"/>
     
       <category term="PHP" scheme="http://nihong.github.io/tags/PHP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>存储器的简单介绍</title>
-    <link href="http://nihong.github.io/2017/03/12/memory-intruduce/"/>
-    <id>http://nihong.github.io/2017/03/12/memory-intruduce/</id>
-    <published>2017-03-12T06:06:35.000Z</published>
-    <updated>2018-03-04T16:09:25.194Z</updated>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2017/03/12/memory-intruduce/memory1.png&quot; alt=&quot;存储器分类1&quot; title=&quot;存储器分类1&quot;&gt;
-    
-    </summary>
-    
-      <category term="硬件" scheme="http://nihong.github.io/categories/%E7%A1%AC%E4%BB%B6/"/>
-    
-    
-      <category term="硬件" scheme="http://nihong.github.io/tags/%E7%A1%AC%E4%BB%B6/"/>
-    
-      <category term="内存" scheme="http://nihong.github.io/tags/%E5%86%85%E5%AD%98/"/>
-    
-      <category term="缓存" scheme="http://nihong.github.io/tags/%E7%BC%93%E5%AD%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>随笔小记</title>
-    <link href="http://nihong.github.io/2017/01/06/CollectedArticle/"/>
-    <id>http://nihong.github.io/2017/01/06/CollectedArticle/</id>
-    <published>2017-01-06T15:18:00.000Z</published>
-    <updated>2018-03-09T13:41:11.327Z</updated>
-    
-    <summary type="html">
-    
-      子曰：温故而知新，可以为师矣。
-    
-    </summary>
-    
-      <category term="-好文" scheme="http://nihong.github.io/categories/%E5%A5%BD%E6%96%87/"/>
-    
-    
-      <category term="-其他" scheme="http://nihong.github.io/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
@@ -418,26 +150,6 @@
       <category term="Linux" scheme="http://nihong.github.io/tags/Linux/"/>
     
       <category term="终端" scheme="http://nihong.github.io/tags/%E7%BB%88%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于指针的一些认知及困惑</title>
-    <link href="http://nihong.github.io/2016/03/09/QuestionAboutObjcPointer/"/>
-    <id>http://nihong.github.io/2016/03/09/QuestionAboutObjcPointer/</id>
-    <published>2016-03-09T13:37:54.000Z</published>
-    <updated>2018-03-12T16:12:37.967Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;指针&quot;&gt;&lt;a href=&quot;#指针&quot; class=&quot;headerlink&quot; title=&quot;指针&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://blog.csdn.net/senwin2009/article/details/48439361&quot; target=&quot;_blan
-    
-    </summary>
-    
-      <category term="Objective-c" scheme="http://nihong.github.io/categories/Objective-c/"/>
-    
-    
-      <category term="疑惑" scheme="http://nihong.github.io/tags/%E7%96%91%E6%83%91/"/>
     
   </entry>
   

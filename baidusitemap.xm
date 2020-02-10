@@ -4,124 +4,32 @@
 
     
   <url>
-    <loc>http://nihong.github.io/2018/03/01/MyResume/</loc>
-    <lastmod>2019-02-21T05:49:32.512Z</lastmod>
+    <loc>http://nihong.github.io/2018/08/08/About-Me/</loc>
+    <lastmod>2020-02-10T09:38:58.179Z</lastmod>
     <data>
         <display>
-        <title>个人简历</title>
-        <pubTime>2018-03-01T14:34:24.000Z</pubTime>
+        <title>About Me</title>
+        <pubTime>2018-08-08T09:19:49.000Z</pubTime>
         
-        <tag>简历</tag>
+        <tag>介绍</tag>
          
          
            
-             
-              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
-          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>http://nihong.github.io/2018/11/28/English-Resume/</loc>
-    <lastmod>2018-11-28T01:23:58.951Z</lastmod>
+    <loc>http://nihong.github.io/2019/10/13/collectArticles/</loc>
+    <lastmod>2019-10-15T15:16:21.749Z</lastmod>
     <data>
         <display>
-        <title>English Resume</title>
-        <pubTime>2018-11-27T18:34:24.000Z</pubTime>
+        <title>collectArticles</title>
+        <pubTime>2019-10-13T01:26:39.000Z</pubTime>
         
-        <tag>简历</tag>
-         
          
            
-             
-              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2018/03/16/OptimizeNetworking/</loc>
-    <lastmod>2018-03-16T17:03:07.820Z</lastmod>
-    <data>
-        <display>
-        <title>App 网络优化</title>
-        <pubTime>2018-03-16T13:44:26.000Z</pubTime>
-        
-        <tag>网络</tag>
-         
-         
-           
-             
-              <breadCrumb title="iOS" url="http://nihong.github.io/categories/iOS/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2016/03/09/QuestionAboutObjcPointer/</loc>
-    <lastmod>2018-03-12T16:12:37.967Z</lastmod>
-    <data>
-        <display>
-        <title>关于指针的一些认知及困惑</title>
-        <pubTime>2016-03-09T13:37:54.000Z</pubTime>
-        
-        <tag>疑惑</tag>
-         
-         
-           
-             
-              <breadCrumb title="Objective-c" url="http://nihong.github.io/categories/Objective-c/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2017/01/06/CollectedArticle/</loc>
-    <lastmod>2018-03-09T13:41:11.327Z</lastmod>
-    <data>
-        <display>
-        <title>随笔小记</title>
-        <pubTime>2017-01-06T15:18:00.000Z</pubTime>
-        
-        <tag>-其他</tag>
-         
-         
-           
-             
-              <breadCrumb title="-好文" url="http://nihong.github.io/categories/%E5%A5%BD%E6%96%87/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2017/03/12/memory-intruduce/</loc>
-    <lastmod>2018-03-04T16:09:25.194Z</lastmod>
-    <data>
-        <display>
-        <title>存储器的简单介绍</title>
-        <pubTime>2017-03-12T06:06:35.000Z</pubTime>
-        
-        <tag>硬件</tag>
-         
-        <tag>内存</tag>
-         
-        <tag>缓存</tag>
-         
-         
-           
-             
-              <breadCrumb title="硬件" url="http://nihong.github.io/categories/%E7%A1%AC%E4%BB%B6/"/>
-          
         </display>
     </data>
     </url>
