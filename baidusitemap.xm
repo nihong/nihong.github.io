@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2019/10/13/collectArticles/</loc>
+    <lastmod>2020-02-11T13:29:24.622Z</lastmod>
+    <data>
+        <display>
+        <title>collectArticles</title>
+        <pubTime>2019-10-13T01:26:39.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2018/08/08/About-Me/</loc>
     <lastmod>2020-02-11T12:45:57.522Z</lastmod>
     <data>
@@ -53,21 +68,6 @@
              
               <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2019/10/13/collectArticles/</loc>
-    <lastmod>2019-10-15T15:16:21.749Z</lastmod>
-    <data>
-        <display>
-        <title>collectArticles</title>
-        <pubTime>2019-10-13T01:26:39.000Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>
