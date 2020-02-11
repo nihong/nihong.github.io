@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2020/02/11/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%BC%A0/</loc>
+    <lastmod>2020-02-11T13:58:01.606Z</lastmod>
+    <data>
+        <display>
+        <title>《毛泽东传》</title>
+        <pubTime>2020-02-11T13:55:02.000Z</pubTime>
+        
+        <tag>毛泽东</tag>
+         
+         
+           
+             
+              <breadCrumb title="历史" url="http://nihong.github.io/categories/%E5%8E%86%E5%8F%B2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://nihong.github.io/2020/02/01/%E9%82%93%E5%B0%8F%E5%B9%B3%E6%97%B6%E4%BB%A3/</loc>
+    <lastmod>2020-02-11T13:57:58.350Z</lastmod>
+    <data>
+        <display>
+        <title>《邓小平时代》</title>
+        <pubTime>2020-02-01T13:33:50.000Z</pubTime>
+        
+        <tag>邓小平</tag>
+         
+         
+           
+             
+              <breadCrumb title="历史" url="http://nihong.github.io/categories/%E5%8E%86%E5%8F%B2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2019/10/13/collectArticles/</loc>
     <lastmod>2020-02-11T13:29:24.622Z</lastmod>
     <data>
