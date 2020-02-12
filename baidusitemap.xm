@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://nihong.github.io/2018/12/08/About-Me/</loc>
+    <lastmod>2020-02-12T04:43:24.409Z</lastmod>
+    <data>
+        <display>
+        <title>About Me</title>
+        <pubTime>2018-12-08T09:19:49.000Z</pubTime>
+        
+        <tag>其他</tag>
+         
+         
+           
+             
+              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://nihong.github.io/2020/02/11/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%BC%A0/</loc>
     <lastmod>2020-02-11T13:58:01.606Z</lastmod>
     <data>
@@ -53,26 +73,6 @@
         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://nihong.github.io/2018/08/08/About-Me/</loc>
-    <lastmod>2020-02-11T12:45:57.522Z</lastmod>
-    <data>
-        <display>
-        <title>About Me</title>
-        <pubTime>2018-08-08T09:19:49.000Z</pubTime>
-        
-        <tag>其他</tag>
-         
-         
-           
-             
-              <breadCrumb title="其他" url="http://nihong.github.io/categories/%E5%85%B6%E4%BB%96/"/>
-          
         </display>
     </data>
     </url>
